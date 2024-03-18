@@ -1,0 +1,441 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&family=Oxanium&display=swap');
+@font-face {
+    font-family: '60sekuntia';
+    src:url('/fonts/60sekuntia.ttf') format('truetype')); 
+}
+@font-face {
+    font-family: 'Windows Command Prompt';
+    src:url('/fonts/windows_command_prompt.ttf') format('truetype')); 
+}
+html {
+  background-color: black;
+  -webkit-background-size: auto, cover;
+  -moz-background-size: auto, cover;
+  -o-background-size: auto, cover;
+  background-size: auto, cover;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+body {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+strong {
+  color: #FB3FB2;
+}
+.spinner {
+  width: 20px;
+  height: 20px;
+}
+.content-wrapper {
+  flex-grow: 1;
+}
+.content {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  font-family: "Oxanium", serif;
+  text-align: center;
+}
+.header {
+  padding: 0px 20px 0px 20px;
+  position: relative;
+}
+.body {
+  flex: 1;
+  padding: 20px;
+}
+@media only screen and (max-width: 900px) {
+  .content {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .body {
+    padding: 5px;
+  }
+  .header {
+    padding: 0px 5px 0px 5px;
+  }
+}
+.title {
+  cursor: pointer;
+  font-family: "60sekuntia";
+  font-size: max(28px, 6vw);
+  font-weight: normal;
+  height:  7.5vw;
+  text-align: center;
+  padding:  5px;
+}
+.subtitle {
+  font-size: 18px;
+}
+@media only screen and (max-width: 900px) {
+  .title {
+  }
+  .subtitle {
+    font-size: 12px;
+  }
+}
+.menu-bar {
+  background-color: black;
+  border-top: 1px solid #555555;
+  flex: 0 0 40px;
+  font-size: clamp(14px, 2vw, 24px);
+  padding-bottom: 5px;
+  padding-top: 5px;
+  text-align: center;
+}
+.menu-item {
+  font-family: "60sekuntia";
+  text-transform: uppercase;
+}
+.body-columns {
+  display: flex;
+}
+#toc {
+  flex: 1;
+  flex-direction: column;
+}
+@media only screen and (max-width: 900px) {
+  .body-columns #toc {
+    display: none;
+  }
+}
+.hamburger-helper {
+  cursor: pointer;
+  display: none;
+  float: left;
+  height: 24px;
+  margin-left: 20px;
+  width: 24px;
+}
+@media only screen and (max-width: 900px) {
+  .hamburger-helper {
+    display: inline-block;
+  }
+}
+#toc-hide-icon {
+  display: none;
+}
+.toc-item {
+  flex: 1;
+  font-family: "Windows Command Prompt", cursive;
+  font-size: 18px;
+  margin: 1px 1px 1px 20px;
+  padding: 4px 4px 4px 8px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.toc-item.toc-category {
+  background-color: rgb(43, 43, 43);
+  font-family: "Oxanium";
+  font-size:  20px;
+  margin-left: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.toc-item.toc-category:hover {
+  background-color: rgb(53, 53, 53);
+  cursor: pointer;
+}
+/* line separating toc click items, but not the one immediately following the category */
+.toc-item.click-item {
+  border-top: 1px solid #555555;
+  display: none;
+}
+.toc-item.toc-category + .toc-item.click-item {
+  border-top: none;
+}
+.toc-item.toc-category i.hide-icon {
+  display: block;
+}
+.toc-item.toc-category i.show-icon {
+  display: none;
+}
+.toc-item.toc-category.open i.hide-icon {
+  display: none;
+}
+.toc-item.toc-category.open i.show-icon {
+  display: block;
+}
+.toc-item.current {
+  background-color: #FB3FB2;
+  color: black;
+  border-bottom: 1px solid #FB3FB2;
+}
+.toc-item.current:hover {
+  background-color: #FB3FB2;
+  color: black;
+}
+#right-content {
+  display: flex;
+  flex: 3;
+  flex-direction: column;
+}
+#table-title {
+  background-color: #FB3FB2;
+  color: black;
+  font-family: "Windows Command Prompt";
+  font-size: 36px;
+  line-height: 24px;
+  margin-left: 2%;
+  padding-top: 10px;
+}
+.title-roll {
+  font-size: 24px;
+}
+#table-desc {
+  background-color: #FB3FB2;
+  color: black;
+  font-family: "Oxanium";
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-left: 2%;
+  padding:  5px;
+  text-align: center;
+}
+@media only screen and (max-width: 900px) {
+  #table-title {
+    font-size: 20px;
+  }
+  #table-desc {
+    font-size: 16px;
+  }
+  .title-roll {
+    font-size: 18px;
+  }
+}
+.dice-icon {
+  margin-right: 5px;
+}
+.table-row {
+  display: flex;
+  flex: 0 0 40px;
+  flex-direction: row;
+  margin-left: 4%;
+}
+.click-item:hover {
+  background-color: rgb(53, 53, 53);
+  cursor: pointer;
+}
+.row-num {
+  background: white;
+  flex: 0 0 20px;
+  font-family: "Oxanium", serif;
+  font-size: 24px;
+  font-weight: bold;
+  border: 1px solid black;
+  color: black;
+  padding: 5px;
+}
+.row-item {
+  background-color: black;
+  flex: 1;
+  font-family: "Oxanium", cursive;
+  font-size: 18px;
+  padding: 5px 15px 5px 15px;
+  text-align: left;
+  border-bottom: 1px solid #555555;
+  -webkit-transition: all 0.2s cubic-bezier(.01,.92,1,1);
+  -moz-transition: all 0.2s cubic-bezier(.01,.92,1,1);
+  -o-transition: all 0.2s cubic-bezier(.01,.92,1,1);
+  transition: all 0.2s cubic-bezier(.01,.92,1,1);
+}
+@media only screen and (max-width: 900px) {
+  .subtable .row-num {
+    font-size: 12px;
+  }
+  .subtable .row-item {
+    font-size: 10px;
+  }
+}
+.row-item.dummy {
+  opacity: 0.5;
+}
+.row-item.dummy:hover {
+  opacity: 1;
+}
+/* Table item that is rolled / chosen / active */
+.table-row.chosen .row-num {
+  background-color: #FB3FB2;
+  color: black;
+}
+.table-row.chosen .row-item {
+  color: black;
+  background-color: #FB3FB2;
+  border-bottom: 1px solid #FB3FB2;
+}
+.table-row.chosen .row-item strong {
+  color: black;
+  -webkit-text-stroke: 1px black;
+}
+
+.upper-right {
+  right: 57px;
+  top: 37px;
+}
+
+.tool-pointer {
+  font-size: 3vw;
+}
+
+#arrow-down {
+  display: none;
+}
+
+#arrow-up {
+  display: none;
+}
+
+#tool-footer {
+  /* start hidden */
+  display: none;
+  margin-left: 80%;
+  font-size: 6vw;
+  position: sticky;
+  bottom: 40px;
+  cursor: pointer;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  paint-order: fill stroke;
+  -webkit-transition: all 1s cubic-bezier(.01,.92,1,1);
+  -moz-transition: all 1s cubic-bezier(.01,.92,1,1);
+  -o-transition: all 1s cubic-bezier(.01,.92,1,1);
+  transition: all 1s cubic-bezier(.01,.92,1,1);
+}
+
+.shaking {
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+  -webkit-text-stroke-color: #FB3FB2;
+}
+#tool-dice.shaking {
+  animation: lateralShake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+
+}
+@media only screen and (max-width: 900px) {
+  #tool-footer {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 9vw;
+    margin-left: 70%;
+  }
+
+  .tool-pointer {
+    font-size: 9vw;
+  }
+}
+@keyframes verticalShake {
+  10%, 90% {
+    transform: translate3d(0, -3px, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(0, 5px, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(0, -4px, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(0, 4px, 0);
+  }
+}
+@keyframes lateralShake {
+  10%, 90% {
+    transform: translate3d(-3px, 0, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(5px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+#landing-copy {
+  flex: 1;
+  font-family: "Uchen", cursive;
+  font-size: 20px;
+  padding: 20px;
+  text-align:justify;
+}
+#landing-copy p {
+  background-color: black;
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+#landing-copy .namesnamesnames {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #FB3FB2;
+  text-decoration: none;
+}
+footer {
+  padding: 5px;
+  margin: 0 20px 0 20px;
+  background-color: black;
+  color: white;
+  flex-shrink: 0;
+  font-family: 'Uchen', serif;
+  font-size: 12px;
+  text-align: center;
+}
+.clickable {
+
+}
+.clickable:hover {
+  color: #FB3FB2;
+  cursor: pointer;
+}
+.subtable .table-row {
+  text-transform: capitalize;
+}
+.subtable-cols {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.subtable {
+  /*flex: 33%;*/
+  flex: auto;
+}
+div.cy-logo {
+  text-align: center;
+  width:  100%;
+}
+img.cy-logo {
+  width:  60%;
+  /* see https://tests.christianoliff.com/hex-to-css-filter-generator/ for hex color => filter conversion */
+  /* MB yellow */
+  /*filter:  invert(88%) sepia(28%) saturate(1678%) hue-rotate(358deg) brightness(103%) contrast(105%);  */
+  /* white */
+   filter: invert(100%) sepia(0%) saturate(7466%) hue-rotate(139deg) brightness(109%) contrast(103%); 
+/*filter: invert(87%) sepia(100%) saturate(0%) hue-rotate(293deg) brightness(104%) contrast(108%);*/
+/*filter: invert(10%) sepia(96%) saturate(7469%) hue-rotate(248deg) brightness(85%) contrast(143%);*/
+
+
+
+
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "d12 Common Background Odors in CY",
+    "category": "The World They Left Us",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Stale cooking oil/grease harvested from [redacted]"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Burning rubber"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Syntheto-weed"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Acrid trash juice"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Chainaxe Body Spray"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Heavy ammonia with some aromas of sewage"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The smell of decay from a nearby pile of corpses in a designated trash area"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Rotted cords and burnt rubber no longer covering exposed wires."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The stench of iron and plastic lingering after a particular nasty gang fight."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Nauseous chemical profane smell saga of cooking oil, perfume, urine cakes, and artificial lemon cleaning detergent coming from the ports."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Your partner's/roommate's/neighbor's/coworker's rancid breath"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Like it’s about to rain (this place could use washing out) / Like it just rained (turns out wet garbage smells worse)"
+      }
+    ]
+  }
+]

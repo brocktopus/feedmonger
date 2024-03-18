@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FEEDMÖNGER</title>
+    <meta property="og:image" content="./images/feedmonger_og.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="https://kit.fontawesome.com/34eeaefcbe.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>  
+    <script src="/js/feedmonger.js"></script>
+    <script>
+      $(document).ready(() => {
+        feedmongerReady();
+      });
+    </script>
+    <meta name="description" content="Random tables for CY_BORG"/>
+  </head>
+  <body class="is-not-patron">
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="header">
+          <div class="title">
+            FEEDMÖNGER
+          </div>
+          <div class="menu-bar">
+            <div class="menu-item hamburger-helper">
+              <i class="fas fa-list" id="toc-show-icon"></i>
+              <i class="fas fa-window-close" id="toc-hide-icon"></i>
+            </div>
+            <div class="menu-item">
+              <div class="subtitle">
+                <span class='re-roll clickable'>Random</span> Tables for <a href="https://www.morkborg.com" target="_top">CY_BORG</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="body">
+          <div class="body-columns">
+            <div id="toc">
+              {{#each categories as |category|}}
+                <div class="toc-item toc-category">
+                  <div class="toc-category-name">
+                    {{@key}}
+                  </div>
+                  <div class="category-toggle">
+                    <i class="fas fa-chevron-down show-icon"></i>
+                    <i class="fas fa-chevron-right hide-icon"></i>
+                  </div>
+                </div>
+                {{#each category as |table|}}
+                  <div class="toc-item click-item {{#if isNew}}is-new{{/if}}"
+                       data-table-name="{{name}}"
+                       data-subtitle="{{subtitle}}"
+                       data-roll="{{roll}}">
+                    <span class='toc-name'>{{name}}</span>
+                  </div>
+                {{/each}}
+              {{/each}}
+            </div>
+            <div id="right-content">
+              <div id="table-content"></div>
+              <div id="landing-copy">
+                <div class="cy-logo">
+                  <img class="cy-logo" src="/images/CompWith_CY_BORG_horiz.svg"/>
+                </div>
+                <p>
+                  These are random tables created by the <a href="https://discord.com/invite/rKgAKAj">MÖRK BORG Discord</a> community on the <strong>#random-tables-cb</strong> channel.
+                </p>
+                <p>
+                  With content by: 
+                </p>
+                <p class="namesnamesnames">
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="tool-footer">
+          <i class="fas fa-arrow-down tool-pointer" id="arrow-down"></i>
+          <i class="fas fa-arrow-up tool-pointer" id="arrow-up"></i>
+          <i class="fas fa-dice-d20" id="tool-dice"></i>
+        </div>
+      </div>
+      <footer class="footer">        
+        FEEDMÖNGER is an independent production by <a href="https://www.glumdark.com" target="_top">glumdark.com</a> (mcglintlock and ctro) and is not affiliated with Stockholm Kartell. It is published under the CY_BORG Third Party License.
+        CY_BORG is copyright Stockholm Kartell.
+      </footer>
+    </div>
+  </body>
+</html>
