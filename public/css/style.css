@@ -52,13 +52,6 @@ strong {
   padding: 20px;
 }
 
-.major-mono display-regular {
-  font-family: "Major Mono Display", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
-
-
 @media only screen and (max-width: 900px) {
   .content {
     padding-left: 5px;
@@ -73,7 +66,7 @@ strong {
 }
 .title {
   cursor: pointer;
-  font-family: "60sekuntia";
+  font-family: "Major Mono Display", monospace;
   font-size: max(28px, 6vw);
   font-weight: normal;
   height:  7.5vw;
@@ -192,9 +185,9 @@ strong {
 #table-title {
   background-color: #FB3FB2;
   color: black;
-  font-family: "Ubuntu Mono";
+  font-family: "Ubuntu Mono", monospace;
   font-size: 36px;
-  line-height: 24px;
+  line-height: 28px;
   margin-left: 2%;
   padding-top: 10px;
 }
@@ -248,7 +241,7 @@ strong {
 .row-item {
   background-color: black;
   flex: 1;
-  font-family: "Oxanium", cursive;
+  font-family: "Ubuntu Mono";
   font-size: 18px;
   padding: 5px 15px 5px 15px;
   text-align: left;
