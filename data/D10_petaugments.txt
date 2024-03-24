@@ -1,4 +1,4 @@
-D10 Cyber Augments for Your Pets
+d10 Cyber Augments for Your Pets
 subtitle:
 category:
 1. Prosthetic [replacement] Cat's Claws. | Abv in Q-Nano Wire or Beam-Sword variants

@@ -1,5 +1,1149 @@
 [
   {
+    "name": "D6 Crumpled Notes on the Ground",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The note said “my wife left me. :(”"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "“Call me 😘🥰” with a phone number (calling it will end up with your RCD being hacked)"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "“YOU ARE NOT REAL”"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "It's the DEATH scroll from Mörk Borg. Can only be triggered by a nano-infested and would then crumble to dust. To everyone else it's weird symbols and gibberish."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A series of binary 1's and 0's that translates to \"Chase the white rabbit\""
+      },
+      {
+        "rowNum": "6",
+        "tableItem": ":(){:|:&};:"
+      }
+    ]
+  },
+  {
+    "name": "D6 Cy’s Most Eligible Bachelors/Bachelorettes",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Mud Dog | Mud Dog is a 5' 10\" 400 lb teddy bear of a man who's looking to find his other half. He currently works as a Chaplain at the Twisted Legion motorcycle club where spend his days carousing with the locals of the Eternal Moon bar. What he may be lacking in good looks he more makes up for with his winning personality and carotid heart of gold. Hobbies include motorcycle repair, military knife fighting techniques, and the latest rom coms."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Booze Hound | 55 devilishly thin unemployed female with 9 loving 'canines' seeks fellow alcohol aficionado to get sloshed and go bulldozing with. Must love monster trucks and be modded the fuck out. Call ext. 6667."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Sten | Sten is a 32 yo in-betweener who lives in a lovely cube apartment on a generic street in a generic mega complex. He's soft spoken, sweet and a good consumer. Sten is of average height and unremarkable weight with brown hair and brown eyes. His mom always compliments him on his handsome face. He recently was told he might get a pay bump at work for his after hours dedication. He's a little lost in life and rarely reads the news. He thinks that crazy stuff that's happening in the slums won't effect him. And the corporations have been so reliable in providing the stable, monotone life he currently has. He has a few hobbies, with painting watercolor as his favorite. Only when he can get the time for it between hours at the office. He's looking for someone just as normal and financially responsible as he is. Someone he can talk to about his day. Bonus points if they're pretty but he says he's not too picky about looks."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "GOT PLUGS? Seeking literally anyone with type 34-b Shawmoth/Raytheon Erotic Couplers. ABSOLUTELY MUST BE 34-B, OLDER/NEWER ARE INCOMPATIBLE. Aftermarket adapters are bullshit and I'm not getting these pulled after how much they cost to install. Tall, green dreadhawk, nice eyes if you're into that. Must send pic of plugs. NO TIMEWASTERS."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Blood Priestess Ryho, from Lilypond. Second in line to leadership of the Blood Sworn citizen's militia-cult. Seeking an appropriately debauched mate to (she claims) fulfill her destiny of siring the chosen bringer of the apocalypse with. Body count must be in the high double digits; anyone with a count of arson or nuclear discharge to their name will definitely be a short-lister. Transformationists not accepted. Educated, good salary (plus occasional spoils) from the militia, enjoys sketching and making custom sushi."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Uncanny Valerie, a sophisticated \"better than real\" dating simulation app who has provided Net-based sexual/romantic/social services to 1 out of every 15 CY residents capable of affording the subscription."
+      }
+    ]
+  },
+  {
+    "name": "D8 Drinks from CY Clubs",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Infestation on the Beach | vodka with (frozen in liquid nitrogen) finger of nanophreak. CY version of russian roulette - if you roll TOUGHNESS 18 you gain nano power, if you fail you get INFESTATION"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Manhattan Project | Whiskey, vermouth, and a bit of gunpowder. A party drink heated up for an explosive finish. People with high AGILITY (14) can guzzle one down before it gets too hot."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Piña Colossus | Pineapple. Ice. Coconut. Lime. These four legendary ingredients, in all their divine splendor, combine to create the PINA COLOSUS (dramatic echo)!! PINA COLOSUS is the intoxic arctic inferno that will Get. You. There. And keep you there riding as high as you need to be. So what the hell are you waiting for? Get them sweet buns over to your corner dive and gulp down some of that sweet sweet PINA COLOSUS!! Now served at a bar near you! Test Tuf 10 vs Brainfreeze (+1 Str -2 Prs for d6 mins)"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Nanoquarium | Layered shot; cream liqueur with vodka on top. Add a small infected nano cloud that swims around the glass in the vodka layer. Create your own tiny aquarium that's just as lively as CY! A cream liqueur sandy bottom with enough vodka water to let your little infested fishy friend feel at home! Add a pill candy to decorate his tiny kingdom before you throw it down your neck! [CHOAKING HAZARD//DRINK IN SINGLE MOTION] Make a dr10 toughness test. On a pass, gain a nano power and infestation for one day. Fail and just live your life infested."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The Perfect Fruit Scrambler. | 2 parts grenadine, 1 part chartreuse, a pinch of nano, and a fresh mint (extremely rare). Fruity, sweet, and surprisingly refreshing.  Reroll all of your Apps as you flush your system. 1 in 4 chance you experience a Backlash on reboot."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Messy Job | 15ml blood, 1 cup ethanol, 8 tsp. sugar, 1 oz miura (see Drugs) and a sprinkle of dichrome ketacetate. Mix well. The taste depends a lot on the freshness and source of blood. But all around rather sweet, this stuff hits your brain fast and hard. Great before jumping into action, especially if you don't intend to survive. Test Pres DR12 or throw the glass against a random target for d4 damage. Passing the test lets you choose the target. You attack with DR10 and defend with DR14 for the next hour, you'll only drop to the floor when reaching negative HP, but until then FUCK SHIT UP"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The Ochre Eye | Mixed by various cults and never using anything resembling ingredients, this is rumored to be a one-way ticket to opening all five eyes. Even uniformed onlookers are enticed by the florescent patterns churning within; it contains paint thinner and pond scum, DR 14 Toughness or begin foaming at the mouth, raving about unseeable patterns. (-1 Knowledge) Something in the way its made, though, always imparts (+1 Presence)."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Old Fashioned | 6 cl Vodka, 1 tsp high fructose corn syrup, 1 dash \"bitters\", 1mg \"whiskey\" essence. Nobody knows what whiskey is anymore but using fragments from old web databases a synthetic essence has been constructed from recycled sewage esters and fuel, the recipe can be bought around the web and used with any standard recsembler. Garnish with a Barcorp®️ Holo-Garnish™️ \"Real Orange peel\""
+      }
+    ]
+  },
+  {
+    "name": "D8 Godawful Beers to Buy in a Shitty Pub",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Zip Smack's Genuine AR Microbrews. | Badly animated AR \"beer\" served in special glasses that inject you with a roughly appropriate amount of alcohol while you pretend to drink. Available in more than 140 different flavours.Requires RealTaste interface in version 3 or higher."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Cy_P_A.! | This brew's IBUs (bitterness units) can be dialed up or down from 2,600 to 2,600,000 at the tap. At higher IBUnits, may cause blindness, liver failure, incontinence, insufferable opinions, compulsive gentrification, and/or unusual facial hair patterns."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "TenaCyFly Viper. | This brew is banned not because its shitty... its because there's been reports of drinkers have been killed by this brew and they bleed various colors of VERY deadly acid. they either exploded or melted to the point there's barely any bone left. so all brewers destroyed the shipments but only a few of them have survived the purge."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Dopplebrau. | Nano-based fluid mimic. Violently toxic in its natural form, it rapidly alters its chemical structure to closely imitate nearby beverages, with an apparent limitation of a low but mandatory alcohol content. In this state it may be safely drunk and typically passes through the body entirely inert, resuming  mimicry upon expulsion."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Drøg-Beer. | Freshly \"brewed\" multiple times per day by Drøg themselves, owner of Drøg's Dive-Bar. \"Brewing\" means Drøg mixes barely drinkable water, the cheapest ethanol and their own secret \"beer flavouring\". Later batches become more popular as the alcohol percentage usually rises, although the latest batches are to be avoided as Drøg sometimes runs out of alcohol and substitutes it with whatever is at hand."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Zippie’s “Challenge Sludge”. | A concoction made from fermented mushrooms Zippie gets from god knows where, medical rubbing alcohol, a secret mix of various drugs, and rat poison(for taste). Designed to be the most physically taxing and vile brew imaginable, if you are able to down a glass(and survive) you get 3 free beers from Zippies bar. Record is held at 4 liters of the stuff by Chester ‘Steelgut’ Williams (in return gets free beer for life)."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The Haz-Malt-[Common/Rare/Ultra]. | The recipie is a secret. It's a boring beer that tastes like what they clean the floors in the ER with. Right before serving the bartender will throw in the so called Haz-Vigorator™️, a pill that dissolves and gives more taste and appearance of the brew (d20): 1-13: a bitter and sour taste (common). 14-19: a salty and metallic taste that also makes the brew sparkle silvery (rare). 20: a sweet taste with an aroma of decay, the brew sparkles in turquoise and pink (ultra)."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "BOTTER? BITTER? | Hard to say, logo is old and washed off. It doesn't taste like a beer, too salty. Then you see barman f##ked up with newest cyberdrug, pissing into glass on the back of the bar. Roll for TOUGHNESS, you tough punk."
+      }
+    ]
+  },
+  {
+    "name": "D8 Prophesied Saviors of New Cults around Cy",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Ol' Jimmy Goat Hooves | A bloated corpse of an amorphous blob created in a lab was dropped off in G0, shortly after it went into labor it birthed the mutant eventually known as Jimmy Goat Hooves. As he grew in G0, he began to help those that wandered this exclusion zone, giving lost punks food and shelter as best he could (hooves make shit hard, yo). Those saved would often follow Jimmy. Now where he roams in G0, it looks like a sea of bodies follows."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Saint Jenn the Light in our Darkest Times and Torch to lead us to a better Fate | She's a mother of four, lost one of her legs due to smoking all her life. A cheap deal for a prosthetic changed her life though. Now she helps all the lost children she can find, and all of them have a certain glow in their eyes. She teaches them to pickpocket, steal and rob the unconscious. Jenn glows in the cark and her eyes are like glowing pearls. She is nano infested and all her kids have minor nano infestation too."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "The 0rator | Someone found a voice on the net. Its sound is distant and distorted, no traceable source can be determined and it leaves an echo in all who witness it, fading only after days or weeks. The voice lists numbers. 24 hours per day, 7 days a week, one number every 4.63 seconds. Occasionally it pauses (skipping a number) and says a name instead. A growingly fanatic group of people, the \"Order of the 0rator\" or \"The Voicekillers\", depending on who you ask, have begone to interpret the numbers as commands, following them to the best of their abilities. Violent disagreements about patterns and codes in the numbers regularly decimate the active member count, and yet the cult grows. Somehow, everyone can agree on how to handle the names."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Black Light Satellite | Prayers and shouts rising upwards upon a smog-bidden sky. Many figures in light-absorbent painted robes surround a sickly-colored and glowing fallen satellite that landed in G0.  The leader of the congregation of the Black Light Satellite, His Name Removed, is supposedly granted visions of a terrible future by being around such a satellite for long periods of time.  Maybe the radiation's reached his brain. Maybe the visions are true."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The Three Horned King. | The Three Horned King, The Dreaded, and The First Heretic of the Heirs of Kergoz; the King is an imposing figure, despite being unable to move. He had supposedly abandoned the prior cult after his own religious beliefs was viewed by his brothers and sisters as \"heretical\". What exactly he believed in is unknown, but since then, attempts have been made on his life by the Heirs of Kergoz--none have succeeded. Yet. Draped in black and nano-infested beyond the point of human recognition, The Three Horned King now exists as a self-proclaimed undying lord whom grants blessings to his followers upon a throne of wires and cables plugged into the net, 24/7."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Yoguz the Dry One beneath Breaking Clouds | Yoguz is a thin human, long hair, soft voice, they walk slowly and have all kinds of people behind them. They can't be hit by any bullet, they just move around them. (Melee attacks hit as usual and let them go down in a single hit, but their goons don't let anyone get close.) They claim they can show anyone the way to be untouched, to resist all and ascend in the midst of battle and chaos."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Q.Q MOAR | Cynergy-funded bitcrusher mega-idol. DJ, fashionista, beauty/lifestyle guru, investment influencer. Their heavily corpo-managed career has spawned an adoring and deeply aggressive fandom of ‘BBs.’ In turn, a whole cottage industry of minor influencers has cropped up, parsing the subliminal subtexts of Q.Q’s latest track, or the references to their upcoming Big Money Moves in the memes shared to their feed. This scene has evolved from adoring idol worship, to real belief in Q.Q’s “philosophy,” “wisdom,” and “love for fans,” to actual ascribing of supernatural power and dedication to divining their wishes and calling upon them for boons. BB-thought has been linked to a variety of activities which may frustrate PC’s: stalking/harassment/assault of nonbelievers, spontaneous rioting at/around Q.Q appearances, fanatical misbehavior carried out “to impress” Q.Q or “heeding instructions coded into KRRZSSHT >:3 6.0**!!”. Businesses, investors, or johnsons may be found staking their hopes for financial future on Q.Q’s [merger with/takeover of/ghosting and shorting of] a troublesome firm involved in [insert random sector], subsidiary of [insert random corp], motivated by [getting back at/patching things up with/taking over] the [snakes/media hacks/formerly mistrusted but now embraced/powers that be] which [undermined/financed/shorted/criticized/boosted] their latest [album/concert/tour/weapons line/corporate merger/look/foray into pornography]. Q.Q is personally terrified of both their handlers and their fans, and knows one or the other will put a bullet in them if they make the wrong move."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The Coppersmith | A seemingly completely unaltered human, at all times jacked into a masterfully crafted custom cyberdeck. They are able to access the net as a physical location, stepping into the digital world and back out into the physical one wherever they please, leaving behind fried circuits and molten wires in the nearby systems. Their goals are not publically known, but some young hackers have been taught to build instable short-range passages through the net and are now responsible for a series of previously unimaginable thefts, gathering seemingly unrelated ultra-high-tech equipment at an unknown place to unknown ends. Those who didn't cook their own circuits or rip their personality apart during the transfer, that is."
+      }
+    ]
+  },
+  {
+    "name": "D10 Cy City's Most Wanted",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The owner of the account xXsuckmybiggleswadeXx in The MMO 2: Ashes of Algernon."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Dr. Lueger Ooub: Mad Geneticist Wanted for stealing top secret military technology. Previously a private military research scientist, driven to wits end he went after \"the incident\" he escaped by using his experimentations on his own flesh. He now lives in Cy's sewer system, further modifying his body with genes from crocodiles, frogs, fish, and rats to transition into the ultimate sewer predator."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Steinar Hackler, former CEO of synthetic meat conglomerate Biovine Dynamics. wanted for his part in the HappyCow scandal, where excess amount (more than the legal 25%) of human remains in biosynthesis material were used in the HappyLinks Sausages"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The Offline, at least that's what they call them, they are completely biologic, no tech, no RCD, not even using guns. There are several rumors, some suggest they can control bugs, others say they, that tech shuts down in their presence. Some say they are the perfect fusion of human and nano, suffering no downside to the infection. Another rumor says they have long reached the top and are one of the big CEOs, hiding in plain sight. Wanted by some for research, wanted by others because of violating several laws."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Mr. Numbers, former accounting AI for [corporation] that went rogue and put out bogus numbers, eliminating confidence in the corp and causing massive losses. Numbers has evaded capture by moving through a variety of mainframes, including police, military, medical, and [kergoz]. Numbers currently possesses knowledge that could destabilize the entire economic system of Cy. He is suspected to currently be hiding in the subconscious gutter punk [maybe a pc!]"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Cameron Pharis, 9 years old, wanted for High Truancy. Considered extremely dangerous and a master of social concealment. Wanted dead or alive."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Karlgu$taf AI - Ancient AI wantet for trying to re-royalize the city, re instating a new AI- king and queen as ultimate leaders. The AI is installed in a RollsRoyce Mech armed with fingercannons"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Norna - Three headed nanoinfested woman. Rotting body, modified with wires and tubes. A TV-screen in her abdomen shows glimpses of the future and some times the past. She is wanted for spreading company-secrets about a well known corporation."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Jack Entropy - Musician & Anarchist. Wanted for inciting 《THE CORPORATE WAR》 & for multiple scandals involving illicit substances, multiple prostitutes & the unauthorized selling of corporate property under the Records_Labels_Articlr92>JS. CONSIDERED HIGHLY DANGEROUS DUE TO HIS MAGNETIC PERSONALITY & HIS LOOKS."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "the SNO Man The SNO Man is best known for driving his double wide diesel powered monster truck with twin mounted snow plows and ultra slip resistant tires bigger than your whole car. He was once a protector of the little people, helping plow out cars from the roadside, even shoveling the sidewalks and pathways. That was before the sinister General Kemp took over the City Council, poisoning the former hero's mind with his money and his hate. Now, the SNO Man has changed completely: burying cars in hills of powder, blocking entrances with walls of ice trapping people in their homes. This happens to us each and every winter now as we struggle to survive."
+      }
+    ]
+  },
+  {
+    "name": "D10 Cyber Augments for Your Pets",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Prosthetic [replacement] Cat's Claws. | Abv in Q-Nano Wire or Beam-Sword variants"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Thought to speech translator. | Rapidly discontinued. Cats are indeed assholes and dogs are indeed stupid."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Chronal Dilator | Your pet will live twice as long!  ...and move at half speed."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Synthetic alloy-reinforced stomach | Your pet will be able to feed on all the trash left around in the city! Waste no more on pet food! Disclaimer: your pet's farts may experience changes, it is recommended to use a gas mask (not included on price)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Built-In Leash. | In a fleshy sac on your pet's neck, an extendable fuzzy leash keeps your pet close, but not completely out of harm's way."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Always in our ❤️. | An holographic 3d projector inserted in the pet's neck, playing in an endless loop, the faces of the owner's previous animals (or whatever they program into it) resized and remapped over the pet's head"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Fecal surprise. | Thanks to internal modifications the power unit inside the animal allows it to drop a turd like a real animal once per day."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Musculad. | Syntheflesh © small fully jointed human arms, capable of holding small/medium items and punching (d4 damage)."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Everfeed. | Circular digestive system where fecal matter is reprocessed and enriched into a nutritional paste. Add water and Everfeed Purification tablets once a month."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Internal Remote. | Now your pet can watch TV while you’re away! Warning: Cats may use Internal Remote to hack the Net."
+      }
+    ]
+  },
+  {
+    "name": "D12 Reasons Why the Team Got Together",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "You all got scammed by the same crypto-scam, you got together to ultimately find the person who scammed you out of 1 AST PokéPoints thinking you would get 1.1 AST Pepes in return for sending a AST Pepe, you were probably drunk or high."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "You all attended a local meeting to deal with a local endemic sprung from a TG Labs experiment, you delude yourself into thinking that the cover ups can be unraveled."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "All of your parents where effectively scammed out of what would be your (meager) inheritance by lawyers from Gravf Mellberg Tosk, you will find justice in a world where there is none."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Unfortunately, you’ve all found yourselves as bystanders caught in the middle of a spontaneous shootout. When the bullets clear, everyone involved on both sides have been totally zero’d out, leaving the party as the only ones left alive at the crime scene. Sec-Ops are on their way, better think of a way to explain all the bodies."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "All the PC’s have the same dealer, and one of you finds out he’s been horribly upcharging you and making bad batches of product. A band of his clients have pulled you together to help teach him a lesson."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Another G0 breakout brings nanofreak to the bar where you were drinking (separately). Freak exploded, and nobody was hurt (I mean nobody important because this bar is a real sh*thole on the bottom of sh*tholes), but since then, PCs have had a weird connection: their minds are permanently linked and sometimes swapped."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "You all love the same punk band and recognized the patch on each others clothes."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A mutual friend died and you came together to avenge their death."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "You’ve all been mutuals in the net for a long long while, and are finally meeting up irl for the first time. Wonder who the catfish will be?"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "You all used to be coworker wageslaves working for the same megacorp, until they let you all go. You all still get together for drinks now and then, but your lives are very different than the way they used to be."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The PC’s just all become involved in a sudden multi-vehicle wreck over the water highway. Time to argue over whose fault it was."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "The PCs all work at a studio making another ad. That is until the main star's cybernetics are hacked. A beautiful day to murder a national favourite."
+      }
+    ]
+  },
+  {
+    "name": "D12 State-of-the-art Cybertech Prototypes That Definitely Don't Belong in the Wrong Hands",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Spineclaws | Four retractable metal spikes that are implanted into the upper back. They are around 10ft. long when fully extended, flexible or jointed, and accurately controllable. Can be used to run, scale walls, and impale enemies (d6 damage, one attack per spike per round, spike breaks off on a fumble.)"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "\"The Off Button\" portable EMP device | Guaranteed to shut down electronic equipment of all sorts in a quarter-mile distance, requiring hard reboots on affected devices."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Face-Splitting Maw | Exactly what it sounds like. The reapers break off your old bottom jaw, and insert two chrome-enhanced half-jaws on the left and right sides. It gives you a horrible underbite that's the size of the bottom half of an American football helmet, but the jawsplitting allows you to swallow and crush big things with your new chompers that you really shouldn't be able to. Your choice of razor, spine, or needle-teeth."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "UCS \"Blinders\" Perception Enhancer | Auditory cortex reworking, ear augs, nervous system juicing. Replaces natural soundscape with auditory and nerve stimuli proven to quicken response time and narrow officer focus (e.g., footsteps of suspicious persons replaced with gunshots, ambient sound swapped for a driving gorefest beat corresponding to local threat rating, etc.). Quick to notice danger, first to act in a fight - but hair trigger, shooting first, asking never. Increased odds of downing a co-worker who taps your shoulder."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "ACGS Reins | Latest iteration of common Human Resources tech. Standard miltech rigger neural enhancements, series of jacks for receiving myoelectric and other biochemical data, connected to convenient interface. Aggressively curtails unnecessary cognitive function. Effectively, a way to turn a person into a battery & targeting system, taking advantage of eyes naturally evolved to hunt. They put prisoners in these things to patrol the Borghold. This one has been slapped on a rickshaw."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "An acorn, guaranteed to cause law enforcement in a 100-foot radius to empty their clips."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "AutoRAIL. | An implanted system of superconducting magnets that are able to propell the user in any given direction at a moments notice, at roughly four times the speed of sound. Only to be used with musculoskeletal reinforcements of grade 4 or higher."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Vaporlung 95 | With these breathing enhancers implanted in your chest you'll be able to exhale poison of your choosing, filling a large foyer in an instant. The slot for the poison is a tube in your mouth, so you have to \"drink\" the poison to load it. (Don't swallow it with your regular tubes though, this tech doesn't make you immune against poison.)"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The Watchmen's Eye | Neurological uplink to artificial intelligence managing a small drone swam, which cross-references surroundings with available online data and identifies active targets in order to give the user unparalleled battlespace awareness. The user cannot be ambushed except by extraordinary means. If they aim, they're guaranteed to hit - something. Difficulty of human-machine intelligence interfacing will sometimes result in product misidentifying targets. Be aware that this a prototype for demonstration purposes and should not be used under live fire. ACGS reserves the right to monitor, void warranty of, or decommission the prototype via remote detonation in case of misuse. Side effects include nausea, vertigo, and depersonalization."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "THE GVN d1 | +666 to hit. When you fumble an attack, (d4) 1. you missed the trigger. 2. you never made it to the battle, having caught a stray in the previous room. 3. your father never met your mother, one having taken a fatal bullet from an impossible angle. 4. the gun hits open air. Containing a compendium of technodaemon AIs trained on the living names of dead gods, THE GVN does not miss.  During testing, it has been found to hit persons from improbable and impossible angles, spaces, times, and realities. The weapon bears the mark of its creator - a symbol that has never meant anything to anyone, anymore."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The Scambler | This chip broadcasts scam links in a wide beam broadcast to every device in a 50m radius. RCDs lag, everyone in range is stunned for 1 round as their systems reboot, all net connected devices cease functioning for 1d4 (roll once for all). Anyone can bypass these above safety measures and go ahead and ignore the stun or use their gear, but they risk clicking on AR spam links clouding their vision. Roll a d6 after any failed roll (or successful defense vs enemies): 1-5 they lose that amount * 100 creds. On a 6 a rogue AI manifests as a nano swarm. It was lurking in the deep web waiting for someone to click it's ritualized release link."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Nanoswarm auto-injector | Spinal installation that will automatically deploy reparative nanobots into the body when catastrophic injury is detected (when HP reaches 0 or lower). Can be used d6 times, restoring HP to fill but at a cost of -1 to a random stat per use, as the nano swarm cannibalizes parts of the body to assist overall repair."
+      }
+    ]
+  },
+  {
+    "name": "D12 Surprises in a Royal West Shipping Drop Box That Just Crashed into the Neighborhood, Recipient Coords Scrambled",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A STALKER, which expected to be delivered to the penthouse of the richest contact of the PCs. Will attempt to terminate any obstacle as it continues on foot."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A real baby Capybara. 100% natural."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A nano-infested person ensnared in cables and wires. A living data-storage device. May have 3d4 * 1000 creds on them. May explode."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A pipe bomb meant for a high-up, everyone near takes 2d4 damage (roll for defense)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "At least 200 gallons of an unknown fluid locked in unusual metal barrels. It’s currently leaking, and it smells like death."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A hermetically sealed box with lead-lined walls containing a single severed finger."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "A bunch of corpses in a circular configuration around a small stone obelisk. It is black as the night, and somehow, it’s speaking."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A couple of pvnks have already looted the container. All that’s left is graffiti, markings left behind revealing that a small gang did this."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "A perfectly preserved ancient wooden racing chariot and two fully charged mechanical horses."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "A hot, fresh pizza. Real dairy cheeses, highest quali synthHAM™️, artisanal crust, and real  pineapple. It looks just like the ones in historical dramas."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "A brand-new latest generation BetterBride™️ android. The Ultimate Indulgence version. Not a stock one either, someone must've dropped a shitload of creds in the customizer."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "1d6 high-powered, top of the line androids with integrated mantis blades and submachine guns. All of them have been activated, and all of them are extremely hostile."
+      }
+    ]
+  },
+  {
+    "name": "d12 Absurd Criminal Charges",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Crossing the street during business hours without an active PediPass account."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Charged for simply talking on the train."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Having your RCD not stream your POV when inside this mall."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Brand defamation."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Passing the speed limit from basic running!"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Failing to pay the service fee for a random police check."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "J A Y W A L K I N G"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Being under-armed for the neighbourhood."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Not fitting in with the style that is the current trend."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Public indecency/loitering. (lying on the sidewalk, bleeding out)"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Declining to upgrade device firmware/software version to its newest."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Unauthorized Proximity: maintaining any physical presence within 1 km of The Hills (any sector). Fines grow exponentially, every meter closer offender comes to a gate. (Selectivly enforced.)"
+      }
+    ]
+  },
+  {
+    "name": "D20 Popular but Terrible TV Shows in CY",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Hoarders: Cybertech Edition"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Secrets of The G0 | A show where a group of “professionals” trek into the G0 to try and appease the nano there, ongoing investigation into their involvement with multiple disappearances."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Ultimate Intern | Game show where unpaid interns compete in increasingly dehumanizing and humiliating ways to get full time employment at a big corporation. Usually still unpaid."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Jobswap | A show where two \"lucky employees\" from two different jobs swap jobs for a day. Should either one of them not fulfill the quota of that job, both of them get fired. A success will win both of them a price! Nice now hot piece of cybertech! For FREE* *|for the first 4 days, the usual subscription service will automatically be deployed and cost more than they earn probably, their coworkers will envy and hate them anyways|"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Mythic Creatures | Each show explores the folklore around one mythical creature such as the  legend of the Majestic Manatee or the ancient tales of the Hateful Hippo. People mostly watch it to make fun of the stupid things that others used to believe in. A fan favorite is the fairy tale of the Rhino, otherwise known as the African Unicorn."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "AI.deathcage | Chosen by popular vote, each week a pairing of fully developed AI, with simulated physical bodies and personalities, fight to the death. It's ok, they are not real. Most popular episodes: s2e13 - 14 year old King Leonidas reconstruction defeats adult tiger. s4e02 - obese adult man defeats one hundred 9 years old.  s5e22 - Finale of the special The Favorites Championship Season - Leonidas reconstruction finishes obese adult man by eating his face, crowned the Ultimate AI Champion. 2 million signed a petition to give him basic rights as a prize."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The app-rentice. | 'Lucky' contestants compete to become a corporate scumbag in a suit with a fat cred balance.  Using their computer skills they compete in weekly competitions to stay on the show until one remains. Nobody hears of them again and rumours are the corpos just keep all the ideas the contestants made and make the winner become a slave. Hooked up to machines 24/7 constantly creating state of the art apps for the corpo's to exploit, slowly going insane until they're replaced.... by the next season's winner."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "PR3D4T0RZ | 1/2 Medical program, 1/2 Hunting show. Volunteers are turned into half animal half human hybrids and freed in CY_ slums after being drugged to imitate their models to perfection. Fierce lab-created chimeras are released too, to be hunted by the contestants. There is no security perimeter, and nobody is informed of the filming taking place."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Who Wants to be A... ... ...  | The game show  where the contestant [the winner of the bidding war] answers a series of questions for their chance at winning the grand [mystery] prize!! [So far the entry bidding war has cost each winning contestant more their prize was worth]"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Randomize me. | Bio/cybertech surgery show where participants undergo transformative surgeries/tech body modifications based on the whims of a randomizer app and audience voting."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The Naked Singer | Tune in to an all new talent show like none other. One that brings together some of the city's best amateur singers and most attractive people for one extravagant weekly show!  Auditions begin next month! All are welcome!"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Who's Under My Skin? | 'A guess who' kind of show with celebrities posing with a preserved skin took from a recently deceased \"volunteer\", they can only answer questions about their most private life to the participants, usually making up ultraviolent  drug-fuelled and sexually repugnant stories on the fly"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "The Unreal World | A 'reality' show focusing on the social lives and relationship drama of a group of friends in the same MMO videogame guild. Watch as they meet for the first time IRL only to discover one of them was catfishing the others all along!"
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Whose Flatline Is It Anyway? | A group of comedians are plugged into the Net and forced to play increasingly ridiculous improvised mini games incorporating audience suggestions until one of them inevitably flatlines. The points in each mini game do not matter and the comedian who dies is almost always random. Hosted by Doom Carey."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Blood Countess. | AI generated dark/pulp fantasy legacy drama about a frozen vampiric court and its melancholic, over dramatic ruler."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Young Frankensteins. | Four kids compete designing, crafting and fighting with their creations, made with loose limbs, cyberware and scraps given to them, in improvised laboratories placed near gladiator pits around CY_"
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Dop Swap | A show where unaware contestants have closest family members and friends swapped with dopples. Betting is highly encouraged on when the contestant will figure out they are on the show. Some have been going for years and stakes are high."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Corpo-raccoons | Candid camera show in which debutant comedians are moles inside new rising corporations, breaking them from the inside, doing jackass kind of odd challenges during important public events"
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Robituary | High society billionaire [user generated moniker] died with unfinished business. Now their digital consciousness inhabits the android executor of the estate. Together the two unlikely allies must tie up loose ends in the family business, reconnect with their estranged children, and solve their own murder."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "When You See It! | Assorted B-roll footage with misleading captions. Viewers attempt to find events and people that do not exist. 43 seasons and counting."
+      }
+    ]
+  },
+  {
+    "name": "d20 Putrid Muckbang Vids Streamed in Cy That Are Now Delisted and Have Subsequently Caught the Eye of the Corpos",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Must See Endangered Dolphin Sushi Binge | Before being delisted after public outrage, this viral video caught the eye of the Culinary Excellence Agency's Exotic Fishery Department."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Rotblack Crabshack ASMR (We go elbow deep! Uncut!) | Personality Honeybridge Viperiors final video, which shows Honeys last meal before succumbing to seafood allergies at a famous family diner."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Streetbeef (watch until the end!) | Dex found some nano-gunk that looks like ground beef, and the best part is, it's growing! Think we can eat the whole thing before it takes over the apartment?"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Rare Long Pig BBQ feast stream busted! | Streamer ILovePigsMouth had a 3 hour eating session of grilled meats in which he named his contact from whom he got this rare \"pork\". A certain corporation didn't like that and took him out on stream."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Will it chew tho? CH0WD0WN Ep.62 | A video depicting a streamer attempting to bite through an assortment of bricks - until his cybertech jaw explodes, sending shrapnel everywhere, cutting the feed."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Eat Last Year's Muckbanger of the Year! | Faces, fingernails, hair, and ass cheeks are on the menu, fuckers! Last year's top rated Muckbanger, Hank \"Bile\" Pyle is this year's Muckbang feast! Thralls of Bile Mongers gather at the table and then the forks are handed out. How long can he go before death! Tune in fuckers!"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "MrCritter's Roach Bars Promo Stream! | Watch the new startup of famous VToober MrCritter going to local retail stores, and having random people try all new flavors of insect-based protein, including chocolate and pistachio!! Cheap, cheap, cheap nutrition with a hospitalization rate of only 8%!! Wow! Tastes better than paper!"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Bellyboy Eats the Entire Mother Truckers Lunch Shop Hidden Menu! | Popular ZoomTuber Bellyboy69nice tragically passed away in his home last evening shortly after performing on a muckbang livestream where he had succeeded in eating the entire hidden menu from the truck stop Mother Truckers Lunch Shop, infamous for their many health code violations. According to reports after the live stream was pulled, Bellyboy69nice's corpse seemed to be squirming and soon developed unusual writhing sweet potato-like growths. His remains are presently being transferred to MiliCorp custody for reasons that are still classified. We'll keep you updated on this story as it develops."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "FingerFood.mp4 | A static low quality chain-email/shock video of a man eating a series of cut-off fingers. There is a 1/8 chance that a pc recognizes one of the fingers. It exists as several episodes, speculation on the net ranges from it being made by a serial killer to a morgue worker. End credits include a P.O. Box address titled “submissions”."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "100K SUBSCRIBER SPECIAL! Making a sushi dinner with ingredients from G0! | Streamer ChefKaz celebrated reaching a subscriber milestone by prepping a sushi dinner of maki and nigiri utilizing a strange ingredient sent to him by his followers. The video shows prep and tasting a few of the dishes before some of the food appears to leap onto ChefKaz's face. The camera falls to the floor in the midst of the subsequent struggle and there are sounds of screaming before the stream ends."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Super Dood and Princess Penolope binge together! | AI generated video, showing popular childnet entertainment icons, Super Dood and Princess Penolope, singing with their mouths full: 🎵Eat your parents! Eeeaat your parents! EEAAAT your parents! We just can't stop!🎵"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Drinking Whatever is Left in the Fridge I Guess.  | A brief video of NezNez, a content creator of middling notoriety, imbibing a mixture of expired condiments and saltines. The resulting scream/vomit was sampled repeatedly in Hacksaw Coil's hit track \"Orgy in the Vomitorium.\""
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "In CY, Clam-dash Devour You! | In this video popular, v streamer Seacil tried to finish the Clam-dash mega bucket, but he failed to read the fine print. What follows is a fierce uphill battle for the streamer, a ravenous attack that he sourly loses. The clams do, however, do finish eating every last bite of poor Seacil. At the end of the stream armed guards with DietTech uniforms can be seen taking the clams and sealing them in some sort of containment device."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "If I Stop Binging, Debera Will Leave Me | A naked man sits with a distended belly in a nearly empty kitchen, his grimy face streaked with tears, as he forces item after item in the room into his mouth, many of which have been partially digested and vomited back out multiple times, all while someone offscreen--in-between the man's choked sobs--threatens to divorce him if he quits."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Can I survive on AR food? | We all enjoy virtual snacks. Augmented Reality through the RCD can reproduce the taste and texture of anything you can imagine. But can you live off them? I'll eat nothing but simulated food for the next week and find out, and I'll be streaming this experiment for your benefit!"
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Selfeast.holo | Drone camera, industrial locale, bright LED light. Naked person with AI scrambled features and voice. An assortment of power tools, drugs and cutlery. Self-cannibalism until the drugs fail and the line flattens. 3h and 21 minutes."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Best diet for weight loss. | Webcam, trashy closet-size of a room, piles of electronics and cables lying around on shelves and walls. Serious, methodical and technical person, with the mood of a telecourse teacher at 5 am, explaining with deep detail techniques to allow yourself to swallow different shapes whole, and how to extract them safely even if you don't have a Stomach Pouch mod for easy access. One after the other, swallows increasingly suspicious items all obviously constructed to simulate the size, format and weight of other objects. Has random advice like \"this one can be reached by a radio activation even inside a reinforced stomach\". Abruptly ends with a heavy pounding on the door."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Monkey Brain Soup | Series of videos starring a celebrity couple. Their faces have been blurred, but everyone knows who they are anyways. They use long, thin, silver spoons to feed each other the brains of still-living apes, scooping brains directly from the skull. They start small, macaques, rhesus, but move up to baboons, gorillas, etc. In the final videos, they've moved on to humans, and make comments on how technologies and nano infestations effect the flavor and mouthfeel. The subjects universally start the video struggling and screaming, but invariably lose their life to the process."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Dr Kodie Drinks the Tank | Dr Kodie used to be a pretty popular streamer back in the day, it's a damn shame what happened to her."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "I finished it | Damon used to be a spelunker. He would record his explorations of the old, the abandoned, the forgotten. His viewership had been in decline when he hit the jackpot – an old supply of MREs from a now-defunct paracorpomilitary org. In a flash of inspiration, his channel pivoted on a dime from spelunking to muckbang. His first and last video is him consuming the entire stockpile in one sitting. The video concludes with ------- extreme distension ------ rupture ----- trying to cram ------- back into his open gut ------- five days worth of silence before --------- discovered by local canines."
+      }
+    ]
+  },
+  {
+    "name": "D100 Reasons to Get Arrested in the City",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d100",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Piracy/Hijacking of corporate drones"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Wearing exclusive fashion styles only allowed by the rich"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Looking funny at SecOps"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "not wearing your RCD"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Illegal Ad Blocking"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Showing visible signs of trauma"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Offering food to armed robo-dogs."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "In possession of ECM gear"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Excessive amount of limbs"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "J walking"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Visible \"criminal\" affiliation"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "AI gait analysis systems identified you as \"walking in a particular way\" and flagged you for arrest. The systems are unable to explain what this means but their brochures say they are 99.7% accurate."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Wearing a loud shirt in a built-up area"
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Violation of curfew. Information found in your spam folder."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Hack attempt was traced back to you. You were an unwilling proxy. Sad."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Speaking in unauthorized languages or saying words that have been black-listed."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Gathering in prohibited area or cause"
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Blood on clothes exceeds tolerable value."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Unregistered nano infection"
+      },
+      {
+        "rowNum": "21",
+        "tableItem": "Online posting and/or thought critical of (corporation)"
+      },
+      {
+        "rowNum": "22",
+        "tableItem": "K walking"
+      },
+      {
+        "rowNum": "23",
+        "tableItem": "Transferring funds without a license to transact."
+      },
+      {
+        "rowNum": "24",
+        "tableItem": "Public intoxication"
+      },
+      {
+        "rowNum": "25",
+        "tableItem": "Public sobriety"
+      },
+      {
+        "rowNum": "26",
+        "tableItem": "Not paying the sidewalk toll."
+      },
+      {
+        "rowNum": "27",
+        "tableItem": "RCD has no subscription-based apps."
+      },
+      {
+        "rowNum": "28",
+        "tableItem": "We’re sorry, the reason for your arrest is not available at this time. An officer will be with you shortly. Thank you for complying with Arrest-o-Tron. (The arrest-o-tron is clearly malfunctioning and has just left you handcuffed deep in hostile gang territory)"
+      },
+      {
+        "rowNum": "29",
+        "tableItem": "Cannibalism (also known to the citizens of Cy as \"free meat\")"
+      },
+      {
+        "rowNum": "30",
+        "tableItem": "The SecOps needs to meet their monthly arrest quota and you just happen to be right there."
+      },
+      {
+        "rowNum": "31",
+        "tableItem": "One more arrest to get that holiday bonus."
+      },
+      {
+        "rowNum": "32",
+        "tableItem": "Littering"
+      },
+      {
+        "rowNum": "33",
+        "tableItem": "Shitting more than 150 grams per day."
+      },
+      {
+        "rowNum": "34",
+        "tableItem": "Open carry of unregistered or unregistered looking weapons"
+      },
+      {
+        "rowNum": "35",
+        "tableItem": "Spawncamping an officer of the law in The MMO 2: Ashes of Algernon."
+      },
+      {
+        "rowNum": "36",
+        "tableItem": "Loitering"
+      },
+      {
+        "rowNum": "37",
+        "tableItem": "Running"
+      },
+      {
+        "rowNum": "38",
+        "tableItem": "Not letting an officer of the law have first pick of the loot in The MMO 2: Ashes of Algernon."
+      },
+      {
+        "rowNum": "39",
+        "tableItem": "Not showing adequate deference to the Süpr Eats delivery drone that was trying to get past."
+      },
+      {
+        "rowNum": "40",
+        "tableItem": "not having the latest RCD software updates."
+      },
+      {
+        "rowNum": "41",
+        "tableItem": "A glitch in the beta preview of the next RCD software updates you installed"
+      },
+      {
+        "rowNum": "42",
+        "tableItem": "Looking like a potential Cy-Rager"
+      },
+      {
+        "rowNum": "43",
+        "tableItem": "Kicking an officer of the law from your party because they had (not even being funny) shocking bad gear for a late game dungeon in The MMO 2: Ashes of Algernon."
+      },
+      {
+        "rowNum": "44",
+        "tableItem": "Healing an officer in the MMO 2: Ashes of Algernon; you should have known they were going for the no-heals achievement."
+      },
+      {
+        "rowNum": "45",
+        "tableItem": "Not healing an officer in the MMO 2: Ashes of Algernon; you should have known they were going for the undying achievement"
+      },
+      {
+        "rowNum": "46",
+        "tableItem": "Possession of non synthetic food"
+      },
+      {
+        "rowNum": "47",
+        "tableItem": "Tox screen indicated that mandatory drugs where not consumed. A violation of the CY health code"
+      },
+      {
+        "rowNum": "48",
+        "tableItem": "Not voted on the next cy major. Voting is mandatory. Not voting will be procecuted and the vote cast in favour of the incumbent"
+      },
+      {
+        "rowNum": "49",
+        "tableItem": "Caring about the next CY major vote, and getting people to vote for the least bad option"
+      },
+      {
+        "rowNum": "50",
+        "tableItem": "Missed the bi monthly cyberware checkup"
+      },
+      {
+        "rowNum": "51",
+        "tableItem": "Food self-sufficiency"
+      },
+      {
+        "rowNum": "52",
+        "tableItem": "Speaking to your colleagues about forming a union."
+      },
+      {
+        "rowNum": "53",
+        "tableItem": "Possession of plants"
+      },
+      {
+        "rowNum": "54",
+        "tableItem": "Not watching the biggest sporting event of the year."
+      },
+      {
+        "rowNum": "55",
+        "tableItem": "Concealed carry of unregistered or unregistered looking weapons."
+      },
+      {
+        "rowNum": "56",
+        "tableItem": "Suspected of neglecting work-related responsibilities."
+      },
+      {
+        "rowNum": "57",
+        "tableItem": "Inability to perform work-related responsibilities."
+      },
+      {
+        "rowNum": "58",
+        "tableItem": "NeoLoitering"
+      },
+      {
+        "rowNum": "59",
+        "tableItem": "Installing ad-block on your RCD"
+      },
+      {
+        "rowNum": "60",
+        "tableItem": "Harboring a known fugitive (a rogue AI has embedded itself in your subconsciousness)"
+      },
+      {
+        "rowNum": "61",
+        "tableItem": "Lollygagging"
+      },
+      {
+        "rowNum": "62",
+        "tableItem": "Supporting people's inherent rights to body autonomy..."
+      },
+      {
+        "rowNum": "64",
+        "tableItem": "Wearing mismatched socks"
+      },
+      {
+        "rowNum": "63",
+        "tableItem": "Not numbering lists correctly"
+      },
+      {
+        "rowNum": "64",
+        "tableItem": "Resisting firmware updates"
+      },
+      {
+        "rowNum": "65",
+        "tableItem": "Deactivating App Tracking"
+      },
+      {
+        "rowNum": "66",
+        "tableItem": "Not accepting cookies"
+      },
+      {
+        "rowNum": "67",
+        "tableItem": "Only having one eye covered by your RCD."
+      },
+      {
+        "rowNum": "68",
+        "tableItem": "Hacking"
+      },
+      {
+        "rowNum": "69",
+        "tableItem": "NICE: Not Identifyable Coding Enhancements"
+      },
+      {
+        "rowNum": "70",
+        "tableItem": "Failure to accept the updated terms and conditions."
+      },
+      {
+        "rowNum": "71",
+        "tableItem": "Touching the Dancers"
+      },
+      {
+        "rowNum": "72",
+        "tableItem": "Murder without a License"
+      },
+      {
+        "rowNum": "73",
+        "tableItem": "Grand Theft Auto"
+      },
+      {
+        "rowNum": "74",
+        "tableItem": "Public Mental Illness"
+      },
+      {
+        "rowNum": "75",
+        "tableItem": "Eating Gum"
+      },
+      {
+        "rowNum": "76",
+        "tableItem": "Offending anyone"
+      },
+      {
+        "rowNum": "77",
+        "tableItem": "Looking at someone suspiciously"
+      },
+      {
+        "rowNum": "78",
+        "tableItem": "Swearing"
+      },
+      {
+        "rowNum": "79",
+        "tableItem": "Speaking one of the forbidden words"
+      },
+      {
+        "rowNum": "80",
+        "tableItem": "Spitting"
+      },
+      {
+        "rowNum": "81",
+        "tableItem": "Telling the truth out loud, or, failure to participate in the misinformation campaign"
+      },
+      {
+        "rowNum": "82",
+        "tableItem": "Failure to pay adequate attention to a required advertisement"
+      },
+      {
+        "rowNum": "83",
+        "tableItem": "Cop having a bad day"
+      },
+      {
+        "rowNum": "84",
+        "tableItem": "Failure to complete spending quota"
+      },
+      {
+        "rowNum": "85",
+        "tableItem": "Failure to complete RCD at-a-glance public profile"
+      },
+      {
+        "rowNum": "86",
+        "tableItem": "Failure to provide a DNA sample to the medi-drone"
+      },
+      {
+        "rowNum": "87",
+        "tableItem": "By some mystery you have found yourself caught in a discussion with an Officer of the Law in regards to The MMO 2: Ashes of Algernon but you have no idea what that is and regrettably that's a solid offence right there"
+      },
+      {
+        "rowNum": "88",
+        "tableItem": "88"
+      },
+      {
+        "rowNum": "89",
+        "tableItem": "BiP"
+      },
+      {
+        "rowNum": "90",
+        "tableItem": "Having too expensive looking stuff for how punk you look"
+      },
+      {
+        "rowNum": "91",
+        "tableItem": "Fishing/ Hunting without a license"
+      },
+      {
+        "rowNum": "92",
+        "tableItem": "Possessing an illegal number of spikes on your jacket"
+      },
+      {
+        "rowNum": "93",
+        "tableItem": "Piercings not in compliance with corporate dress codes"
+      },
+      {
+        "rowNum": "94",
+        "tableItem": "Email fraud."
+      },
+      {
+        "rowNum": "95",
+        "tableItem": "Having more than d4+2 mouths."
+      },
+      {
+        "rowNum": "96",
+        "tableItem": "Tears."
+      },
+      {
+        "rowNum": "97",
+        "tableItem": "Living past your expiration date."
+      },
+      {
+        "rowNum": "98",
+        "tableItem": "Suspected of exploiting the 1:6 glitch at the Dark Fort region raid in The MMO 2: Ashes of Algernon, bringing back a debuff-infected familiar and releasing it into heavily-populated player regions."
+      },
+      {
+        "rowNum": "99",
+        "tableItem": "Write out random tables."
+      },
+      {
+        "rowNum": "100",
+        "tableItem": "While logged in The MMO 2: Ashes of Algernon with the username xXsuckmybiggleswadeXx, you were reported by an Officer of the Law."
+      }
+    ]
+  },
+  {
+    "name": "D12 Abandoned Buildings (for Cowardly Pvnks to Hide In)",
+    "category": "The World They Left Us",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "An old flower shop in disrepair. | The building has a forclosure sign on it, but the bank that did such has since gone bankrupt and was liquidated for the old government. On the second floor, a young person’s skeleton is laying in bed, holding a pot surprisingly made of real clay instead of cheap plastics. In the backyard is a single tree. It is the last of its kind, and struggles to survive in this future. If the tree dies, the roots which aided this building’s crumbling foundation rot, and the place collapses in d10 days."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Neon Circuit Lanes. | A retro-vaporwave style bowling alley that used to be popular in a time before the district it belonged to grew all slummy. Though the lights have long stopped functioning, the inside walls and decor are dressed with glow-in-the dark paints of various colors, still providing vibrant illumination. The whole place was automated with early-wave robotics, so if you can get the generators working, you may be able to treat yourself to a couple rounds of pins via the self-service AR lane-reserving kiosks while you lay low. Another room has several defunct vending machines carrying everything from expired candy to individual bullets to plushies to consumer drugs."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "The trash fisherman's shack. | Some struggling soul thought of fishing up scraps of trash from the canals to make some kind of living. When nobody would take what he pulled up he just decided to start building a home out of it. It didnt take long for the suits in the corporate skyscrapers overlooking the place to decide his little shack hanging over the canal was an eyesore and paid some slummers to get rid of it. Being the clever sort, they decided the best way to do that was to just blow out the supports and sink the place into the river with the man still inside. When it hit the water though, all the muck and trash was enough to keep it floating, or at least lodged in something sturdy enough to leave it sticking out above the surface. The trash Fisher didnt survive the fall, but his legacy lives on in the punks that use it as a smelly hideaway nobody cares enough to go down and finish taking care of."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Matty’s | After Matty (whoever they were) died, his property was quickly acquired. Due to a loophole, a clerical error, an exploit, and blackmail several corps now all own the property. While lawsuits and legal battles continue the place is left abandoned with all of Matty’s odds and ends still there."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "ClubECO_Cyti | Pronounced “Club Ecosity,” this derelict building once was some strange laboratory focused on some important project. Now the glassware is used for serving drinks to the lawbreakers, survivors, and leeches of the world. Cops are never let in, and the Corpos are often turned away unless under very important conditions."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "\"#\" | Nobody still alive knows what an RCD calls \"the pound\" is for, and nobody visits it anymore. A long time ago, they used to gather up something and put them in cages, to care for them or contain them... or something like that. Whatever it was that they used to cage here, it either stopped being gathered, or stopped being possible to cage. But there's still those empty cages, expired meds, and decaying rooms... d4 oddly-shaped small Whitetails make their lair here. Instead of immediate hostility from the group, roll from the First Impressions table on page 87, adding one for every piece of edible meat in the pvnks' inventories that they're willing to sacrifice to the creatures."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The World's Most Successful (Nonviolent) Death Cult's Temple. | This cult figured they could get free sacrifices by cloning their members, making them both law-abiding citizens and successful cultists. Whatever process they used warped them mind, body, and soul. Now RCD scanners have trouble anywhere near the building, espousing death counts in the billions, plastering the retinas with red lights and warning tape. The local security team can't figure out how to close the case off, and no one with the know-how to can be bothered to put the effort forth. Pvnks that don't mind the overbearing stench of death can bury themselves in the glistening viscera filling the innumerable basement floors."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The Great Mall™️ | A huge Mall, with 216 floors, the elevators are out of service. Connected via bridge to other surrounding buildings every 36th floor. There are many stories about what happened here, most are about weird creatures that were nano infested humans that mutated into something alien. The mall looks as if it was left from one moment to another. There is rotten food to be found, outdated weapons that are no longer supported (and if reactivated have a 1 in 6 chance to aleart the company/sec ops/or just needs to be hacked to become usable) and who knows what else."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The Tunnel of Love. | An abandoned water ride in what used to be an amusement park. No longer filled with water, but still used for kissing your secret crush before the corpos apprehend them for abandoning their cubicle. Also used to hide dead bodies."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Cybertech Dump. | Over the years, this lot has becoming a dumping ground for old and broken cybertech. From shattered cyberclaws to pallets of misprinted smartjacks and everything in between, a enterprising pvnk might scrounge enough hardware to put together a working cybertech on the cheap - if they can figure out how to avoid the heavy metal and radiation poisoning they are sure to get from all this discarded tech."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Cardboard swamp. | A dump near Lake Gravel clogged with cardboards all over the place. It flooded with acid water, turning it slightly alcaline with what used to be RCD packages, bloated corpses from former homeless and origami aligators. Watch out for the Cardboard Thing."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A strangely unused and huge sub-basement of a corporate structure in South Central."
+      }
+    ]
+  },
+  {
     "name": "d12 Common Background Odors in CY",
     "category": "The World They Left Us",
     "subtitle": null,
@@ -52,6 +1196,94 @@
       {
         "rowNum": "12",
         "tableItem": "Like it’s about to rain (this place could use washing out) / Like it just rained (turns out wet garbage smells worse)"
+      }
+    ]
+  },
+  {
+    "name": "D20 Common Background Noises in CY",
+    "category": "The World They Left Us",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Gunshots and shouting"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Ambient classical muzak (dial-up modem sounds)"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Screaming (d4): 1: Infants. 2: a couple fighting. 3: a person along with gunshots. 4: multiple people, but it sounds recorded."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The all-pervasive sub-bass droning of low-flying freight shuttles."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Some asshole blasting their terrible music taste out of huge speakers"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Hushed whispers in dead machine languages coming from inside the walls"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Jumbled radio noises and sometimes you can hear some whispers in the radio…"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "AN EXTREMELY LOUD ADVERTISEMENT FOR SOMETHING THAT WILL FIX YOUR.... (d6) 1: hideous physical appearance. 2: ridiculous sexual incompetence. 3: idiotic financial failures. 4: pitiful mental uselessness. 5: irritating social inadequacy. 6: pathetic self-esteem issues."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The sound of various people in argument about (d4): 1: A payment gone wrong. 2: The latest Killmatch match. 3: Politics. 4: The plot of some holo-show."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "The buzzing of neon and sodium lights and streetlamps."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The sounds of cars passing by. Every one in 10 has a siren."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "The rushing of fluids with pipes flooding sewers and alleyways with strange waters."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "The sound of snapping and rustling wires in strong wind and crackling electricity as wires arc."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Echoes of metal sheering against metal, reverberating down, sounding like whale song. A municipal combine is lumbering by on the roads above."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "The whirring thrum of drones, hovercraft, and helicopters."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "The crackling of fires and the sounds of yelling. A riot against SecOp forces."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "The deafening, bass-heavy humm of machinery (maybe in the building next to you, maybe underground), almost popping your eardrums (might test Toughness DR12 or your first priority is to move the fuck away from this area)"
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "The sounds of an arcade’s blips and boops faintly break the quiet."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "The pitter-patter and the sizzle of acid rain faintly dance along the concrete streets ahead of you (perhaps increasing in intensity the harder the rain)."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "The pale, deafening wind whipping around, drawing up the stench of something foul."
       }
     ]
   }

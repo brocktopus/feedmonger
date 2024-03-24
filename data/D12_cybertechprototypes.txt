@@ -1,4 +1,4 @@
-D12 State-of-the-art Cybertech Prototypes That Definitely Don't Belong in the Wrong Hands
+d12 State-of-the-art Cybertech Prototypes That Definitely Don't Belong in the Wrong Hands
 subtitle: 
 category: 
 1. Spineclaws | Four retractable metal spikes that are implanted into the upper back. They are around 10ft. long when fully extended, flexible or jointed, and accurately controllable. Can be used to run, scale walls, and impale enemies (d6 damage, one attack per spike per round, spike breaks off on a fumble.)
