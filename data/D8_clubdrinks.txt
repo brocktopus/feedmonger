@@ -1,4 +1,4 @@
-D8 Drinks from CY Clubs
+d8 Drinks from CY Clubs
 subtitle: 
 category: 
 1. Infestation on the Beach | vodka with (frozen in liquid nitrogen) finger of nanophreak. CY version of russian roulette - if you roll TOUGHNESS 18 you gain nano power, if you fail you get INFESTATION

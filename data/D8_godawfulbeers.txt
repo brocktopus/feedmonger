@@ -1,4 +1,4 @@
-D8 Godawful Beers to Buy in a Shitty Pub
+d8 Godawful Beers to Buy in a Shitty Pub
 subtitle: 
 category; 
 1. Zip Smack's Genuine AR Microbrews. | Badly animated AR "beer" served in special glasses that inject you with a roughly appropriate amount of alcohol while you pretend to drink. Available in more than 140 different flavours.Requires RealTaste interface in version 3 or higher.
