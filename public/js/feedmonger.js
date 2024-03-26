@@ -149,7 +149,7 @@ const showSingleTable = (result) => {
 };
 
 const setTableParam = (tableName) => {
-  document.title = "FEEDMÖNGER - " + tableName;
+  document.title = "FEEDMONGER - " + tableName;
   tableParams = "?tableName=" + tableName
   window.history.pushState({}, "", tableParams)
 };
