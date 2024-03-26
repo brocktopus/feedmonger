@@ -291,7 +291,7 @@ const loadLandingContent = () => {
     return false;
   };
 
-  document.title = "TABLEMÖNGER"
+  document.title = "FEEDMONGER"
   $('.hamburger-helper').removeClass('is-active');
   $('#table-content').hide();
   $("#tool-footer").hide();
