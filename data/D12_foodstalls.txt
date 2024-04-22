@@ -1,6 +1,6 @@
-d12 street food stalls that are cheap but you might need to roll for Toughness...
+d12 Street Food Stalls That Are Cheap but You Might Need to Roll for Toughness...
 subtitle: 
-category: 
+category: They Call This Food?
 1. Airscoop bars. Motes of airborne organic matter that are harvested, processed, and rendered down into a sticky green-black bar by the rattling, roaring machine on top of the booth. They're free, you pay for the flavor paste and stir-stick to spread it over them with.
 2. Rocket in your stomach foods | Costs: UFO pizza (cheese pizza with synthetic pepperoni) d4 hp recover slice 3 credits. (Make a Toughness DR 13 or suffer a nasty Gerd acid reflex for d2 damage ignoring armor);  Alien eyeball dumplings made from some dead alien and used some eyeballs to make them tasty. D6 hp recover 5 credits(make a Toughness Dr 11 or get an infestation by getting a third eye ball that sticks out your forehead. You can even speak in alien language.); and Meteor meatballs, a combination of synthetic meat and grind up meteors to make it nice and hot. D10 hp recover 10 credits(Make a Toughness Dr 15 or you are dead by an extinction explosion in a 50 feet circular radius by 2D20 damage) 
 3. Bioplast fruit stall. Innovative technologies ensure there are 0% fruit elements within this fruit, but a carefully mixed blend of sugar, water, and assorted flavoring agents, suspended inside a 3D-printed edible plastic framework. Tastes like fruit punch reverse-engineered back into an actual fruit.
