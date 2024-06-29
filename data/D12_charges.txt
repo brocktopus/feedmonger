@@ -1,6 +1,6 @@
 d12 Absurd Criminal Charges
 subtitle: 
-category: 
+category: It's a Racket
 1. Crossing the street during business hours without an active PediPass account.
 2. Charged for simply talking on the train.
 3. Having your RCD not stream your POV when inside this mall.

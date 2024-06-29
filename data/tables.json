@@ -1,81 +1,33 @@
 [
   {
-    "name": "d6 Crumpled Notes on the Ground",
+    "name": "d6 Space Flight Locations",
     "category": "???",
     "subtitle": null,
     "roll": "d6",
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "The note said “my wife left me. :(”"
+        "tableItem": "Charybdis Station | Mothballed by T.G.LABS prior to the G0 this secret orbital research lab was home to the C.H.I.M.E.R.A project. 100s of labs working on gene spliced monstrosities. Rumours are its now home to a sect of Esoterrorists trying to breed eldritch horrors. Features you might find: (1) Seeming endless, warping corridors of flickering halogen lights. (2) Bubbling tanks of greenish liquid enclosing squid like entities. (3) High tech summoning grids made from reused computing hardware."
       },
       {
         "rowNum": "2",
-        "tableItem": "“Call me 😘🥰” with a phone number (calling it will end up with your RCD being hacked)"
+        "tableItem": "New Roman Times | Heavy security, but only the automated security turrets and systems are working, debris is surrounding the rather small station that's orbiting an uninteresting and uninhabitable planet. Very hard to get past the security and through the encrypted gates. Inside are body parts slowly spinning in zero gravity. Blood and gore all around. Something went wrong, nobody seems to have survived. Rooms: Some kind of luxury lounge with poles for pole dancing and stripping, several back-rooms with beds but also some with torture devices (some of them bloodied, one of them with body parts still chained to them).  Also 3 full on luxury apartments. A big kitchen where a whole team would've worked and a storage unit with expensive booze, rotten food, cages with real, dead animals."
       },
       {
         "rowNum": "3",
-        "tableItem": "“YOU ARE NOT REAL”"
+        "tableItem": "Spaceshipwreck | Inside a cloud of dust and scrap and junk lies the jagged remains of the Eternal Dawn spaceshuttle. It kinda looks like it was bitten in half by an enormous mouth, but of course that would be impossible. Make a DR 16 Tech roll to navigate through the debris field unscathed. As you enter the shuttle you see the entire place in ruins. Artificial gravity is disabled as supplies float through the air haphazardly, while life support systems are down to just 10%. The last surviving crewmembers hide in the only remaining airlocked chamber: the lavatory. The three of them are jammed into a chamber the size of a telephone booth, covered in the blood and meat and bones of the former crewmates they consumed for survival."
       },
       {
         "rowNum": "4",
-        "tableItem": "It's the DEATH scroll from Mörk Borg. Can only be triggered by a nano-infested and would then crumble to dust. To everyone else it's weird symbols and gibberish."
+        "tableItem": "ILLYRIA Outpost | UCS orbital training station; the airless hell where troopers are stationed to hammer them into voidside enforcers on the orbital habitats. Gets them accustomed to zero-g, breathing from air tanks, and similar. The station is surrounded by debris rings of airlocked cadets. Going to be really hard to get around without a sham outfit or a good cover story. Also, vetting for contraband is harsh, as cadets are only supposed to be eating approved rations. Why you'd go there: eliminating a UCS bigwig on tour of the facility; spreading agitprop among the cadets (who are, after all, well-armed, underpaid and not usually cybered up enough to make their brains company property); stealing experimental weaponry for pvnk engineers to build countermeasures to; rescue a contact's child who enlisted for tuition; sneak out the tactical manuals to get the edge on UCS' strategies."
       },
       {
         "rowNum": "5",
-        "tableItem": "A series of binary 1's and 0's that translates to \"Chase the white rabbit\""
+        "tableItem": "The Eternal Embassy | A small but exquisitely designed station carrying the cryopreserved brains and personal effects of a dozen brave potential intergalactic explorers; the ultra-wealthy sponsors of the project. As soon as humanity develops suitable FTL technology, the Embassy will be fitted out and boldly launched into the galactic core in search of advanced civilisations, to whom the reanimation of a bunch of dead alien trillionaires will presumably be a top priority. Anyway, the brains all got shoved to the back to make room for the secret AI substrate Royal West actually wanted to isolate up there. Don't plug anything in if you go grave-robbing."
       },
       {
         "rowNum": "6",
-        "tableItem": ":(){:|:&};:"
-      }
-    ]
-  },
-  {
-    "name": "d10 Cyber Augments for Your Pets",
-    "category": "???",
-    "subtitle": null,
-    "roll": "d10",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "Prosthetic [replacement] Cat's Claws. | Abv in Q-Nano Wire or Beam-Sword variants"
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "Thought to speech translator. | Rapidly discontinued. Cats are indeed assholes and dogs are indeed stupid."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "Chronal Dilator | Your pet will live twice as long!  ...and move at half speed."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "Synthetic alloy-reinforced stomach | Your pet will be able to feed on all the trash left around in the city! Waste no more on pet food! Disclaimer: your pet's farts may experience changes, it is recommended to use a gas mask (not included on price)"
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "Built-In Leash. | In a fleshy sac on your pet's neck, an extendable fuzzy leash keeps your pet close, but not completely out of harm's way."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "Always in our ❤️. | An holographic 3d projector inserted in the pet's neck, playing in an endless loop, the faces of the owner's previous animals (or whatever they program into it) resized and remapped over the pet's head"
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "Fecal surprise. | Thanks to internal modifications the power unit inside the animal allows it to drop a turd like a real animal once per day."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "Musculad. | Syntheflesh © small fully jointed human arms, capable of holding small/medium items and punching (d4 damage)."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "Everfeed. | Circular digestive system where fecal matter is reprocessed and enriched into a nutritional paste. Add water and Everfeed Purification tablets once a month."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "Internal Remote. | Now your pet can watch TV while you’re away! Warning: Cats may use Internal Remote to hack the Net."
+        "tableItem": "AMON Orbital | Maintained by Alliansen. Thousands of years ago, mankind first put plow to field and grain to furrow. AMON is the last place with clean enough air and broad enough space to still do that. The station is more or less mono-functional- it's a grain field -but massive in scale; this is, after all, where enough cereal crops to sate every CY-side bigwig's appetites for opulence come from. Workers toil in broad hats and anti-rad suits to protect them from the sun's unfiltered rays; cancer affects eight out of ten of them anyways. There's certain compounds being tested here that could make a hypercrop able to grow in cracked concrete...if some absolute scoundrel without respect for corporate law tried to break in."
       }
     ]
   },
@@ -124,230 +76,6 @@
       {
         "rowNum": "10",
         "tableItem": "Block party | There's no discernible cause for celebration, but somehow people have scraped and scrounged enough for a traffic-choking rager. Even the SecOps who got sent to gun down the obstruction are now in the mosh pit throwing down like they're getting paid for it. Counts as a rest area for 1 hour, after which the bombs start dropping."
-      }
-    ]
-  },
-  {
-    "name": "d12 Absurd Criminal Charges",
-    "category": "???",
-    "subtitle": null,
-    "roll": "d12",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "Crossing the street during business hours without an active PediPass account."
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "Charged for simply talking on the train."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "Having your RCD not stream your POV when inside this mall."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "Brand defamation."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "Passing the speed limit from basic running!"
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "Failing to pay the service fee for a random police check."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "J A Y W A L K I N G"
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "Being under-armed for the neighbourhood."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "Not fitting in with the style that is the current trend."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "Public indecency/loitering. (lying on the sidewalk, bleeding out)"
-      },
-      {
-        "rowNum": "11",
-        "tableItem": "Declining to upgrade device firmware/software version to its newest."
-      },
-      {
-        "rowNum": "12",
-        "tableItem": "Unauthorized Proximity: maintaining any physical presence within 1 km of The Hills (any sector). Fines grow exponentially, every meter closer offender comes to a gate. (Selectivly enforced.)"
-      }
-    ]
-  },
-  {
-    "name": "d12 Reasons Why the Team Got Together",
-    "category": "???",
-    "subtitle": null,
-    "roll": "d12",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "You all got scammed by the same crypto-scam, you got together to ultimately find the person who scammed you out of 1 AST PokéPoints thinking you would get 1.1 AST Pepes in return for sending a AST Pepe, you were probably drunk or high."
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "You all attended a local meeting to deal with a local endemic sprung from a TG Labs experiment, you delude yourself into thinking that the cover ups can be unraveled."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "All of your parents where effectively scammed out of what would be your (meager) inheritance by lawyers from Gravf Mellberg Tosk, you will find justice in a world where there is none."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "Unfortunately, you’ve all found yourselves as bystanders caught in the middle of a spontaneous shootout. When the bullets clear, everyone involved on both sides have been totally zero’d out, leaving the party as the only ones left alive at the crime scene. Sec-Ops are on their way, better think of a way to explain all the bodies."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "All the PC’s have the same dealer, and one of you finds out he’s been horribly upcharging you and making bad batches of product. A band of his clients have pulled you together to help teach him a lesson."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "Another G0 breakout brings nanofreak to the bar where you were drinking (separately). Freak exploded, and nobody was hurt (I mean nobody important because this bar is a real sh*thole on the bottom of sh*tholes), but since then, PCs have had a weird connection: their minds are permanently linked and sometimes swapped."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "You all love the same punk band and recognized the patch on each others clothes."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "A mutual friend died and you came together to avenge their death."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "You’ve all been mutuals in the net for a long long while, and are finally meeting up irl for the first time. Wonder who the catfish will be?"
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "You all used to be coworker wageslaves working for the same megacorp, until they let you all go. You all still get together for drinks now and then, but your lives are very different than the way they used to be."
-      },
-      {
-        "rowNum": "11",
-        "tableItem": "The PC’s just all become involved in a sudden multi-vehicle wreck over the water highway. Time to argue over whose fault it was."
-      },
-      {
-        "rowNum": "12",
-        "tableItem": "The PCs all work at a studio making another ad. That is until the main star's cybernetics are hacked. A beautiful day to murder a national favourite."
-      }
-    ]
-  },
-  {
-    "name": "d12 State-of-the-art Cybertech Prototypes That Definitely Don't Belong in the Wrong Hands",
-    "category": "???",
-    "subtitle": null,
-    "roll": "d12",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "Spineclaws | Four retractable metal spikes that are implanted into the upper back. They are around 10ft. long when fully extended, flexible or jointed, and accurately controllable. Can be used to run, scale walls, and impale enemies (d6 damage, one attack per spike per round, spike breaks off on a fumble.)"
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "\"The Off Button\" portable EMP device | Guaranteed to shut down electronic equipment of all sorts in a quarter-mile distance, requiring hard reboots on affected devices."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "Face-Splitting Maw | Exactly what it sounds like. The reapers break off your old bottom jaw, and insert two chrome-enhanced half-jaws on the left and right sides. It gives you a horrible underbite that's the size of the bottom half of an American football helmet, but the jawsplitting allows you to swallow and crush big things with your new chompers that you really shouldn't be able to. Your choice of razor, spine, or needle-teeth."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "UCS \"Blinders\" Perception Enhancer | Auditory cortex reworking, ear augs, nervous system juicing. Replaces natural soundscape with auditory and nerve stimuli proven to quicken response time and narrow officer focus (e.g., footsteps of suspicious persons replaced with gunshots, ambient sound swapped for a driving gorefest beat corresponding to local threat rating, etc.). Quick to notice danger, first to act in a fight - but hair trigger, shooting first, asking never. Increased odds of downing a co-worker who taps your shoulder."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "ACGS Reins | Latest iteration of common Human Resources tech. Standard miltech rigger neural enhancements, series of jacks for receiving myoelectric and other biochemical data, connected to convenient interface. Aggressively curtails unnecessary cognitive function. Effectively, a way to turn a person into a battery & targeting system, taking advantage of eyes naturally evolved to hunt. They put prisoners in these things to patrol the Borghold. This one has been slapped on a rickshaw."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "An acorn, guaranteed to cause law enforcement in a 100-foot radius to empty their clips."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "AutoRAIL. | An implanted system of superconducting magnets that are able to propell the user in any given direction at a moments notice, at roughly four times the speed of sound. Only to be used with musculoskeletal reinforcements of grade 4 or higher."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "Vaporlung 95 | With these breathing enhancers implanted in your chest you'll be able to exhale poison of your choosing, filling a large foyer in an instant. The slot for the poison is a tube in your mouth, so you have to \"drink\" the poison to load it. (Don't swallow it with your regular tubes though, this tech doesn't make you immune against poison.)"
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "The Watchmen's Eye | Neurological uplink to artificial intelligence managing a small drone swam, which cross-references surroundings with available online data and identifies active targets in order to give the user unparalleled battlespace awareness. The user cannot be ambushed except by extraordinary means. If they aim, they're guaranteed to hit - something. Difficulty of human-machine intelligence interfacing will sometimes result in product misidentifying targets. Be aware that this a prototype for demonstration purposes and should not be used under live fire. ACGS reserves the right to monitor, void warranty of, or decommission the prototype via remote detonation in case of misuse. Side effects include nausea, vertigo, and depersonalization."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "THE GVN d1 | +666 to hit. When you fumble an attack, (d4) 1. you missed the trigger. 2. you never made it to the battle, having caught a stray in the previous room. 3. your father never met your mother, one having taken a fatal bullet from an impossible angle. 4. the gun hits open air. Containing a compendium of technodaemon AIs trained on the living names of dead gods, THE GVN does not miss.  During testing, it has been found to hit persons from improbable and impossible angles, spaces, times, and realities. The weapon bears the mark of its creator - a symbol that has never meant anything to anyone, anymore."
-      },
-      {
-        "rowNum": "11",
-        "tableItem": "The Scambler | This chip broadcasts scam links in a wide beam broadcast to every device in a 50m radius. RCDs lag, everyone in range is stunned for 1 round as their systems reboot, all net connected devices cease functioning for 1d4 (roll once for all). Anyone can bypass these above safety measures and go ahead and ignore the stun or use their gear, but they risk clicking on AR spam links clouding their vision. Roll a d6 after any failed roll (or successful defense vs enemies): 1-5 they lose that amount * 100 creds. On a 6 a rogue AI manifests as a nano swarm. It was lurking in the deep web waiting for someone to click it's ritualized release link."
-      },
-      {
-        "rowNum": "12",
-        "tableItem": "Nanoswarm auto-injector | Spinal installation that will automatically deploy reparative nanobots into the body when catastrophic injury is detected (when HP reaches 0 or lower). Can be used d6 times, restoring HP to fill but at a cost of -1 to a random stat per use, as the nano swarm cannibalizes parts of the body to assist overall repair."
-      }
-    ]
-  },
-  {
-    "name": "d12 Surprises in a Royal West Shipping Drop Box That Just Crashed into the Neighborhood, Recipient Coords Scrambled",
-    "category": "???",
-    "subtitle": null,
-    "roll": "d12",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "A STALKER, which expected to be delivered to the penthouse of the richest contact of the PCs. Will attempt to terminate any obstacle as it continues on foot."
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "A real baby Capybara. 100% natural."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "A nano-infested person ensnared in cables and wires. A living data-storage device. May have 3d4 * 1000 creds on them. May explode."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "A pipe bomb meant for a high-up, everyone near takes 2d4 damage (roll for defense)"
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "At least 200 gallons of an unknown fluid locked in unusual metal barrels. It’s currently leaking, and it smells like death."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "A hermetically sealed box with lead-lined walls containing a single severed finger."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "A bunch of corpses in a circular configuration around a small stone obelisk. It is black as the night, and somehow, it’s speaking."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "A couple of pvnks have already looted the container. All that’s left is graffiti, markings left behind revealing that a small gang did this."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "A perfectly preserved ancient wooden racing chariot and two fully charged mechanical horses."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "A hot, fresh pizza. Real dairy cheeses, highest quali synthHAM™️, artisanal crust, and real  pineapple. It looks just like the ones in historical dramas."
-      },
-      {
-        "rowNum": "11",
-        "tableItem": "A brand-new latest generation BetterBride™️ android. The Ultimate Indulgence version. Not a stock one either, someone must've dropped a shitload of creds in the customizer."
-      },
-      {
-        "rowNum": "12",
-        "tableItem": "1d6 high-powered, top of the line androids with integrated mantis blades and submachine guns. All of them have been activated, and all of them are extremely hostile."
       }
     ]
   },
@@ -528,8 +256,96 @@
     ]
   },
   {
+    "name": "d6 Jobs That Require You to Get Locked Up at Borghold",
+    "category": "In This Gig Economy?",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Assassination | Client doesn't like that someone ended up behind bars rather than in the dirt. Unfortunately, they lack any contacts on the inside, so it is up to you to correct the mistake of the justice system. For a very hefty reward, of course. You get the name of the target, and then you just have to do something to end up in the same cell block. Extraction is, obviously, also on you, unless client feels very generous."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Saint Angelo's Feast | A big meeting is set between the heads of 7 major crime families. Only trouble, they are all locked up. You are hired as a mule to smuggle needed culinary ingredients into Borghold to serve the bosses during the meeting. If the bread isnt fresh, bullets will fly and empires will be tested."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "The Gold Watch | when Johnny Cyclotron got locked up in the Borghold, everything in his pockets was confiscated, including the pockets themselves: one comb; two cuff links, gold; Fleetwood Mac CD; gold wrist watch, engraved \"Angie.\" Well now Angie wants it back. You need to get into Borghold and break into the Property Manager's Lock Up to find Johnny's effects and steal the watch."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The Boxed Man | They say the Boxed Man realized the perfect way to avoid getting tossed into Borghold for their racketeering network was to already be there. Guards on the take pass info to the boss, locked in perma-max-sec; an entire empire is run from behind those bars. Sneak in and convince the Boxed Man- by guile or force -to drop the planned supermerger with the Vipers; a criminal kingdom throttling entire districts for protection isn't very high on the list of things CY needs."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Block Chain Gang | A new contest has been announced by Conglomo Chem Beverage Company to promote their hit soft drink, Pogo's Go-Go Super Booster. \"Record yourself dancing to our jingle & scan our QR code for a chance to win $500k Credits and a photo op with Pogo. Enter as often as you like.\" Regional Warden Hoosegow Turner is now forcing the thousands of prisoners on his block to repeatedly post entries to the contest to insure his own victory. Conglomo upper-brass has hired you the break into the Borghold and disable their internet connection to stop the scam."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Let's make a movie | A popular video creator decided that the prison complex will be a perfect next fit for their long running documentary series (Lillypond in the limelight, What really happens at Quay 47). Just like all the other ones, the video  making is outsourced to mercenaries actually willing to risk their life and limb. You are to enter the prison, document as much as possible on concealed recorders and send back the material. Bonus points for inciting a riot or anything else making the video more marketable."
+      }
+    ]
+  },
+  {
+    "name": "d12 Reasons Why the Team Got Together",
+    "category": "In This Gig Economy?",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "You all got scammed by the same crypto-scam, you got together to ultimately find the person who scammed you out of 1 AST PokéPoints thinking you would get 1.1 AST Pepes in return for sending a AST Pepe, you were probably drunk or high."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "You all attended a local meeting to deal with a local endemic sprung from a TG Labs experiment, you delude yourself into thinking that the cover ups can be unraveled."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "All of your parents where effectively scammed out of what would be your (meager) inheritance by lawyers from Gravf Mellberg Tosk, you will find justice in a world where there is none."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Unfortunately, you’ve all found yourselves as bystanders caught in the middle of a spontaneous shootout. When the bullets clear, everyone involved on both sides have been totally zero’d out, leaving the party as the only ones left alive at the crime scene. Sec-Ops are on their way, better think of a way to explain all the bodies."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "All the PC’s have the same dealer, and one of you finds out he’s been horribly upcharging you and making bad batches of product. A band of his clients have pulled you together to help teach him a lesson."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Another G0 breakout brings nanofreak to the bar where you were drinking (separately). Freak exploded, and nobody was hurt (I mean nobody important because this bar is a real sh*thole on the bottom of sh*tholes), but since then, PCs have had a weird connection: their minds are permanently linked and sometimes swapped."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "You all love the same punk band and recognized the patch on each others clothes."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A mutual friend died and you came together to avenge their death."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "You’ve all been mutuals in the net for a long long while, and are finally meeting up irl for the first time. Wonder who the catfish will be?"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "You all used to be coworker wageslaves working for the same megacorp, until they let you all go. You all still get together for drinks now and then, but your lives are very different than the way they used to be."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The PC’s just all become involved in a sudden multi-vehicle wreck over the water highway. Time to argue over whose fault it was."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "The PCs all work at a studio making another ad. That is until the main star's cybernetics are hacked. A beautiful day to murder a national favourite."
+      }
+    ]
+  },
+  {
     "name": "d100 Reasons to Get Arrested in the City",
-    "category": "???",
+    "category": "In This Gig Economy?",
     "subtitle": null,
     "roll": "d100",
     "entries": [
@@ -936,8 +752,188 @@
     ]
   },
   {
+    "name": "d12 Absurd Criminal Charges",
+    "category": "It's a Racket",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Crossing the street during business hours without an active PediPass account."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Charged for simply talking on the train."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Having your RCD not stream your POV when inside this mall."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Brand defamation."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Passing the speed limit from basic running!"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Failing to pay the service fee for a random police check."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "J A Y W A L K I N G"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Being under-armed for the neighbourhood."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Not fitting in with the style that is the current trend."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Public indecency/loitering. (lying on the sidewalk, bleeding out)"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Declining to upgrade device firmware/software version to its newest."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Unauthorized Proximity: maintaining any physical presence within 1 km of The Hills (any sector). Fines grow exponentially, every meter closer offender comes to a gate. (Selectivly enforced.)"
+      }
+    ]
+  },
+  {
+    "name": "d6 Random Objects from Vending Machine",
+    "category": "Someone Else's Trash",
+    "subtitle": null,
+    "roll": "d5",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "one can of Scarlet Shame: drinking its contents locks you into your worst shameful childhood memory. Paralyzed for d3 rounds"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "One human foot drained of blood and lacking toenails"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "1 oil slick coloured Gatcha egg, when opened gives you: (1) A Random Nano, (2) A small plastic toy, (3) A oozey slime growing teeth, (4) An unkown persons high level medical card.4. A SecOps agent in full tac gear. Unclear how they got through the slot. 9 in 10 chance they look around, push up their goggles, declare 'sorry, wrong person' and then use a maintenance key to open the machine's front and climb back inside; otherwise, fights you with stats as a Grey-CERT operator."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "An RCD-slottable credchit that, upon insertion, indicates that the recipient now owes an additional 1d6x100 credits to one of the major corporations in Cy."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A completely black box, it makes a humming sound and gently shakes around on the ground."
+      }
+    ]
+  },
+  {
+    "name": "d6 Choose a Random VHS Tape and Hit Play",
+    "category": "Someone Else's Trash",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "WM3: Macho vs Steamboat, but the 90k audience in the attendance are hooded figures, with red eyes, making rattlesnake noises"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Cyborgian Gladiators, A low-budget gameshow where humans face off in challenges of might against early gen AI bots. Dismemberment and physical trauma are frequent, the audience cheers are as well."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Quantum sit-com, Your favourite episode of your favourite sit-com starts to play. However, it slowly degenerates into the cast murdering each other in cold blood. The last person standing points at you, says your name and runs at the camera. Snow Crash..."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Multiple hours of industrial machines that grind bones of long pigs. Labelled \"Morloch ASMR part 6: Knochenfräse\""
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Leaked failed experimental advertisement video from Kaytell. Flashing lights and buzzing sound directly affect impulse control centres of brain, making the affected person unable to break the eye contact and leave to the point of dying of starvation unless the tv is turned off"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Hand-recorder footage of a wild rave, which continues through SecOps arriving and gunning down everyone present. A cartoon mascot pops up at the end to remind all you kiddies that noise complaints are serious business, so keep it down!"
+      }
+    ]
+  },
+  {
+    "name": "d6 Crumpled Notes on the Ground",
+    "category": "Someone Else's Trash",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The note said “my wife left me. :(”"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "“Call me 😘🥰” with a phone number (calling it will end up with your RCD being hacked)"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "“YOU ARE NOT REAL”"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "It's the DEATH scroll from Mörk Borg. Can only be triggered by a nano-infested and would then crumble to dust. To everyone else it's weird symbols and gibberish."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A series of binary 1's and 0's that translates to \"Chase the white rabbit\""
+      },
+      {
+        "rowNum": "6",
+        "tableItem": ":(){:|:&};:"
+      }
+    ]
+  },
+  {
+    "name": "d6 Secret Files in the Data Vault",
+    "category": "Someone Else's Trash",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "ROSEKISS.exe | The song Kiss From A Rose begins playing on all devices within 2 miles of your position. A swift breeze precedes you everywhere, billowing your clothes dramatically."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "The BURGER BLAST Secret recipe | A rare burger that has been discontinued even though it was popular. unfortunately, he has this also password protected. Also most of the corpos are out to get you."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Neo-Meta-PanChrysopoeia v. 1.0 (Alpha) | a wondrous program capable of transmutation of any data it comes in contact with into currently highly priced cryptocurrency. Even more unfortunately, once unleashed, it spreads wirelessly, corrupting anything that contains any sort of programming into unusable brick, with only the cursed tokens having replaced everything down to OS. Pretty much everybody either wants it for themselves or permanently gone, the latter for good reasons."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "camera_20W2-04-00-012692 | Live footage of the Incident from an on-scene witness, rigorously scrubbed clean of the NANOs until it's actually legible. Watch it and you will learn exactly what CY is."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "BANG.exe | A digital gun. Run it on anything- from a zero-bit doorbell to a supercomputer -and it deals d8, ignoring armor but -d3 if the target is protected by a firewall or similar. Utterly undetectable. Targets killed by it show no physical or neurological damage. On a fumble, for the next d6 turns, you cannot choose who is targeted when you run BANG.exe."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Whiterabbit.exe | your consciousness is transported into a digital labyrinth, akin to Tron. The dead industrialist is there waiting for you. He smiles and whispers: \"Run\""
+      }
+    ]
+  },
+  {
     "name": "d10 rare items and findings from a world forgotten, that would sell highly on black market",
-    "category": "The World They Left Us",
+    "category": "Someone Else's Trash",
     "subtitle": null,
     "roll": "d10",
     "entries": [
@@ -980,6 +976,166 @@
       {
         "rowNum": "10",
         "tableItem": "Atlas Arising, a hack fiction novel as narrative quality goes but the how-to guide for megacorporate rule. Only the myriad trashy love-triangle sequels are really available because the Old Gov censored the thing for seditious demands ranging from more lead in paint to eugenics-based slavery systems. But if somebody got an original, author-signed version, like the one they say Gunner keeps in his desk drawer, you'd more or less be able to read the minds of every magnate of CY."
+      }
+    ]
+  },
+  {
+    "name": "d12 Surprises in a Royal West Shipping Drop Box That Just Crashed into the Neighborhood, Recipient Coords Scrambled",
+    "category": "Someone Else's Trash",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A STALKER, which expected to be delivered to the penthouse of the richest contact of the PCs. Will attempt to terminate any obstacle as it continues on foot."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A real baby Capybara. 100% natural."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A nano-infested person ensnared in cables and wires. A living data-storage device. May have 3d4 * 1000 creds on them. May explode."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A pipe bomb meant for a high-up, everyone near takes 2d4 damage (roll for defense)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "At least 200 gallons of an unknown fluid locked in unusual metal barrels. It’s currently leaking, and it smells like death."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A hermetically sealed box with lead-lined walls containing a single severed finger."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "A bunch of corpses in a circular configuration around a small stone obelisk. It is black as the night, and somehow, it’s speaking."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A couple of pvnks have already looted the container. All that’s left is graffiti, markings left behind revealing that a small gang did this."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "A perfectly preserved ancient wooden racing chariot and two fully charged mechanical horses."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "A hot, fresh pizza. Real dairy cheeses, highest quali synthHAM™️, artisanal crust, and real  pineapple. It looks just like the ones in historical dramas."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "A brand-new latest generation BetterBride™️ android. The Ultimate Indulgence version. Not a stock one either, someone must've dropped a shitload of creds in the customizer."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "1d6 high-powered, top of the line androids with integrated mantis blades and submachine guns. All of them have been activated, and all of them are extremely hostile."
+      }
+    ]
+  },
+  {
+    "name": "d10 Cyber Augments for Your Pets",
+    "category": "The Flesh Is Weak",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Prosthetic [replacement] Cat's Claws. | Abv in Q-Nano Wire or Beam-Sword variants"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Thought to speech translator. | Rapidly discontinued. Cats are indeed assholes and dogs are indeed stupid."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Chronal Dilator | Your pet will live twice as long!  ...and move at half speed."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Synthetic alloy-reinforced stomach | Your pet will be able to feed on all the trash left around in the city! Waste no more on pet food! Disclaimer: your pet's farts may experience changes, it is recommended to use a gas mask (not included on price)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Built-In Leash. | In a fleshy sac on your pet's neck, an extendable fuzzy leash keeps your pet close, but not completely out of harm's way."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Always in our ❤️. | An holographic 3d projector inserted in the pet's neck, playing in an endless loop, the faces of the owner's previous animals (or whatever they program into it) resized and remapped over the pet's head"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Fecal surprise. | Thanks to internal modifications the power unit inside the animal allows it to drop a turd like a real animal once per day."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Musculad. | Syntheflesh © small fully jointed human arms, capable of holding small/medium items and punching (d4 damage)."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Everfeed. | Circular digestive system where fecal matter is reprocessed and enriched into a nutritional paste. Add water and Everfeed Purification tablets once a month."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Internal Remote. | Now your pet can watch TV while you’re away! Warning: Cats may use Internal Remote to hack the Net."
+      }
+    ]
+  },
+  {
+    "name": "d12 State-of-the-art Cybertech Prototypes That Definitely Don't Belong in the Wrong Hands",
+    "category": "The Flesh Is Weak",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Spineclaws | Four retractable metal spikes that are implanted into the upper back. They are around 10ft. long when fully extended, flexible or jointed, and accurately controllable. Can be used to run, scale walls, and impale enemies (d6 damage, one attack per spike per round, spike breaks off on a fumble.)"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "\"The Off Button\" portable EMP device | Guaranteed to shut down electronic equipment of all sorts in a quarter-mile distance, requiring hard reboots on affected devices."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Face-Splitting Maw | Exactly what it sounds like. The reapers break off your old bottom jaw, and insert two chrome-enhanced half-jaws on the left and right sides. It gives you a horrible underbite that's the size of the bottom half of an American football helmet, but the jawsplitting allows you to swallow and crush big things with your new chompers that you really shouldn't be able to. Your choice of razor, spine, or needle-teeth."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "UCS \"Blinders\" Perception Enhancer | Auditory cortex reworking, ear augs, nervous system juicing. Replaces natural soundscape with auditory and nerve stimuli proven to quicken response time and narrow officer focus (e.g., footsteps of suspicious persons replaced with gunshots, ambient sound swapped for a driving gorefest beat corresponding to local threat rating, etc.). Quick to notice danger, first to act in a fight - but hair trigger, shooting first, asking never. Increased odds of downing a co-worker who taps your shoulder."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "ACGS Reins | Latest iteration of common Human Resources tech. Standard miltech rigger neural enhancements, series of jacks for receiving myoelectric and other biochemical data, connected to convenient interface. Aggressively curtails unnecessary cognitive function. Effectively, a way to turn a person into a battery & targeting system, taking advantage of eyes naturally evolved to hunt. They put prisoners in these things to patrol the Borghold. This one has been slapped on a rickshaw."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "An acorn, guaranteed to cause law enforcement in a 100-foot radius to empty their clips."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "AutoRAIL. | An implanted system of superconducting magnets that are able to propell the user in any given direction at a moments notice, at roughly four times the speed of sound. Only to be used with musculoskeletal reinforcements of grade 4 or higher."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Vaporlung 95 | With these breathing enhancers implanted in your chest you'll be able to exhale poison of your choosing, filling a large foyer in an instant. The slot for the poison is a tube in your mouth, so you have to \"drink\" the poison to load it. (Don't swallow it with your regular tubes though, this tech doesn't make you immune against poison.)"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The Watchmen's Eye | Neurological uplink to artificial intelligence managing a small drone swam, which cross-references surroundings with available online data and identifies active targets in order to give the user unparalleled battlespace awareness. The user cannot be ambushed except by extraordinary means. If they aim, they're guaranteed to hit - something. Difficulty of human-machine intelligence interfacing will sometimes result in product misidentifying targets. Be aware that this a prototype for demonstration purposes and should not be used under live fire. ACGS reserves the right to monitor, void warranty of, or decommission the prototype via remote detonation in case of misuse. Side effects include nausea, vertigo, and depersonalization."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "THE GVN d1 | +666 to hit. When you fumble an attack, (d4) 1. you missed the trigger. 2. you never made it to the battle, having caught a stray in the previous room. 3. your father never met your mother, one having taken a fatal bullet from an impossible angle. 4. the gun hits open air. Containing a compendium of technodaemon AIs trained on the living names of dead gods, THE GVN does not miss.  During testing, it has been found to hit persons from improbable and impossible angles, spaces, times, and realities. The weapon bears the mark of its creator - a symbol that has never meant anything to anyone, anymore."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The Scambler | This chip broadcasts scam links in a wide beam broadcast to every device in a 50m radius. RCDs lag, everyone in range is stunned for 1 round as their systems reboot, all net connected devices cease functioning for 1d4 (roll once for all). Anyone can bypass these above safety measures and go ahead and ignore the stun or use their gear, but they risk clicking on AR spam links clouding their vision. Roll a d6 after any failed roll (or successful defense vs enemies): 1-5 they lose that amount * 100 creds. On a 6 a rogue AI manifests as a nano swarm. It was lurking in the deep web waiting for someone to click it's ritualized release link."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Nanoswarm auto-injector | Spinal installation that will automatically deploy reparative nanobots into the body when catastrophic injury is detected (when HP reaches 0 or lower). Can be used d6 times, restoring HP to fill but at a cost of -1 to a random stat per use, as the nano swarm cannibalizes parts of the body to assist overall repair."
       }
     ]
   },

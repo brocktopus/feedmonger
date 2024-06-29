@@ -1,6 +1,6 @@
 d10 Cyber Augments for Your Pets
 subtitle:
-category:
+category: The Flesh Is Weak
 1. Prosthetic [replacement] Cat's Claws. | Abv in Q-Nano Wire or Beam-Sword variants
 2. Thought to speech translator. | Rapidly discontinued. Cats are indeed assholes and dogs are indeed stupid.
 3. Chronal Dilator | Your pet will live twice as long!  ...and move at half speed.

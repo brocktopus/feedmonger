@@ -1,6 +1,6 @@
 d10 rare items and findings from a world forgotten, that would sell highly on black market
 subtitle:
-category: The World They Left Us
+category: Someone Else's Trash
 1. A mask made of unknown organic material. Vibrates lightly in the hands of nano-infected (when a nano-infected individual wears this mask, roll an Arcane Catastrophe from MB for them and apply in a way that makes sense). Highly sought after by scientists of all kinds (from back-alley to corp)
 2. An Old Gov auditor's badge. Ages out of date, but once the states collapsed, the corps didn't bother with inoculating their code against them. Corp-owned drones, bots and turrets will treat you as friendly and with full authority; also opens most corporate (but not private) security. i.e., facility gates, not megamansion doors.
 3. Weaponized virus CyX-66; can be released as an aerosol. Any exposed to the virus are infected, i.e. dealt 1d2 damage per hour, suffer +2DR to all checks, and are contagious until they succeed a DR14 toughness check. If the general population is exposed to CyX-66, trigger an appropriate Miserable Headline.
