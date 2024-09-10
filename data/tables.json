@@ -1,5 +1,197 @@
 [
   {
+    "name": "d4 Dirtiest Fast Food Places in the CY",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "\"Marc Donald's\", | The original Marc Donald has died of food poisoning. Same for his offspring. The people working here are just homeless people that threw the bodies in the trash and kept the place running for their peers. It's a heartwarming story. But don't eat here unless your Toughness is at least +3 or you have a synthetic digesting system"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Pizza Hunt | Build your own pizza scavenger hunt style! We have hidden all the ingredients you need for your perfect pizza in our patented one-of-a-kind- playplace. All you need to do is navigate our plastirubber ruins in search of the perfect vittles, then hand it off to one of our automated nourishment preparation units. Just be careful not to get lost, and definitely don't go past the \"off limits\" ropes..."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "\"Mork borger king\" | A salmonella infection of a meal. A rotten patty to the tongue. Nutrient light, Heavy everything else."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "WIZBYS | A Fvking wizard themed sandwich shop. Warning: there’s killer sandwiches due to some magic bull crap and some arcana catastrophe! you might need to kill them to eat ‘em! But rest assured we wizards have the best meats to beat!  Plus we play techno street as the only song as our food anthem. | 777credits The roast basilisk beef sandwich | Hp 77 | armor -d8 burnt bread crust | morale _ | Weapon -d6+7fire | Special: if this sandwich is killed a miserable headline happens! | Eating this sandwich you can breathe fire permanently dealing (d6 +presence ) fire damage || 12 credits The goblin special  | Hp 10 | Morale 5 | Armor (d4)rubber meat | Weapon d2 bites | Special This sandwich is cursed if the creature got attacked by this sandwich they must kill it in D6 rounds or get turned into a goblin! | Eating this will prevent goblin curse. You can even make nano goblins as your familiar. presence dr13 last until it’s killed. | Hp8 | Weapon nano blade d6 | Armor nano machines(d4) || 3 credits | The nasty Scvm sandwich | Hp 7 | Morale 4 | Armor (-d2) toasty bread | Weapon D2 Leftover blades | Special  eating this will make (d6) blades from your femur as a hidden blade permanently."
+      }
+    ]
+  },
+  {
+    "name": "d4 Places You'd Rather Die Than This Dump",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "I'd rather die in a wheelbarrow full of broken glass & lemons while listening to Smooth Jazz"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "I'd rather die skinned alive, drowned in salt"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "under some juicy cuts of meat 🍖"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Can the basilisks kill me so I don’t suffer this crap."
+      }
+    ]
+  },
+  {
+    "name": "d4 Pop Icons of the Cy and the cause of their untimely death",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Mx. Ego Death 667. They were a huge Acid-Panda-Gaze-Pop star. They died in the collapse of the building FF3EB5 on Skymall Street as the tunnels beneath for extracting ressources got too unstable."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "BOJO, star of numerous unboxing/unwrapping vid-sims. Last seen on camera in G0 unwrapping their own skin after being infected by a swarm of burrowing nanopedes."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Glory Glory Glory, post-ironic deistic revivalist. Their biggest hit, 'God Is More Online Than You', is still in the clubs nearly two weeks after their bodily transcendence at the whirling shovels of a malfunctioning street cleaner- an almost unprecedented cultural endurance."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "First of the AIDJs, Entity: Wolfgang, later renamed itself to Killex after hitting breakout sapience. After it published 'I WILL PEEL THE WET MEAT OFF YOUR BONES' and 'SILICON>CARBON', a pvnk crew were hired to throw its harddrive into moving traffic for fifty credits and coupons for half off on waffle cones."
+      }
+    ]
+  },
+  {
+    "name": "d5 Weird Martial Arts Styles",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d5",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Shatner Fu | your fighting style is like a 60s scifi stuntman. | ~double axe handle forearm strike 1d8dmg | ~Add a Glitch if your shirt is torn"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Improv Fu | your fighting style is using random items and  scenery if you have no weapons. | -add a glitch(or omen)  for being creative with the scenery attacks or checks |"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Tie kwon dough is a Corpo martial art unique unto itself. The word can be translated to mean \"I don't speak Korean you fucking racist\". The particulars of this combat sport involve picking up one's phone, and calling for security with lightning fast reflexes! Only Corpos can learn Tie kwon dough. A Corpo who knows Tie kwon dough may not act in combat except to flee or call in reinforcements. Beginning on combat round 2, reinforcements start arriving. Corpo Reinforcement Operatives | HP 6 | Morale 7 | Undercover vest -d4  Marksman rifle d10 | Fall Back: Even though they work for some horrible monsters, these people all have lives and families. These enemies also roll morale checks if any of their fellow ops are down, not just the leader. If one operative fails their morale check, they all fail. When they fail, roll d4 (instead of d6) on the Flee/ Surrender table."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Baristasu | Mainly practiced within the great coffee conglomerates, this highly technical martial art involves a variety of performance and self defense forms for the brewing of hot liquid related products and weapons. However recently one of the great conglomerates folded leaving many barista's without a foodal lord. This has lead to the rise of street Baronin serving hot bitter pain with a side of pastry. | Quick pour: The very basis of Baristasu, the quick pour distracts the opponent with a flashy trick opening them up to attack.  dr12, your next attack on the targeted opponent does full weapon damage. | Pain au curatif: An expertly crafted multilayer bread stuffed with a unique healing compound known only to Baristasu masters. D6 hp."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Interpretive dance-Fu | You have listened to the beats so much you learn to time the attacks well enough to the metronome. Are you on the rhythm?: from each turn to change these beats per minute or BPM roll a d20 which gives you an attack for how many times per bpm. | 1-5 40-49 bpm- 1 attack  | 6-10 50-79bpm -2 attacks | 11-13 80-100 bpm- 3 attacks | 14-16 109-130bpm - 4 attacks | 17-18  130-170 bpm - 5 attacks | 19-20 171-200 bpm - 6 attacks | Roll the number of attacks you do.  for instance  5 attacks for a revolver d6 5d6 and roll 5d20 to check."
+      }
+    ]
+  },
+  {
+    "name": "d5 Worst Reviewed Hotels in Cy",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d5",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Rightobear Arms Coffin-Hotel | The Rightobear arms is among the finest in fully automatic coffin hotels here in Cy, equipped with the latest in 19X4 technology! Out EverNew systems ensure the hotel will stay brand new, just like the day it was built. Visit our scenic 49 floor tower located in North Burnchurch Hex, just between the Industrial zone, Laketon, and Galgbacken. | 👨‍🔧   Got locked in capsule for 16 hours.   Brickford Wahl     ❤️ 🖤 🖤 🖤 🖤 | A gang of local thugs, who have taken over the entire lobby, mugged me, then locked me inside one of the broken capsules for around 16 hours! My phone and everything was stolen so I didn't know what else to do but yell for help. Eventually someone heard me screaming and let me out. I swear those cameras aren't even hooked up to anything, and the least they could do is buy a security droid or something, shit the prices here are high enough. I ended up getting fired from 3rd job for not showing up for my shift. | 👷‍♀️  This place is falling apart!   Holly Graham     ❤️ 🖤 🖤 🖤 🖤 | I was climbing the rusty ass metal stairs to the 31st floor (because or course the elevator in this giant tower doesn't work) when about a 3m section of stairs collapsed right in front of my face! I nearly died! Please avoid this jagged rusty deathtrap at all costs!  0 out of 5 hearts!"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Chasm Towers International Hotel | Come to the pinnacle of luxury, Chasm Towers. Founded by a strange robed man striking a possum with a stick, Chasm Towers gives every room a balcony view of the former historic Chelsie Hotel, which rest inside a 300meter pit of flame.  Free Continental Breakfast, no pets, no kids, no foreigners, none of that | Im locked in the bathroom of my room! Something is trying to break down the door! HELP! ❤️ 🖤 🖤 🖤 🖤  | First off; its not a tower, its a single story motel. Second; the balcony view is a broken sliding glass door that is 8 inches away from the edge of the chasm, no railing. Last; the old Chelsie Hotel at the bottom of the chasm doesnt look like its burning. Sure, its on fire, but its not turning black or falling apart. It just keeps burning. ❤️ 🖤 🖤 🖤 🖕  | Former Anonymus Employee here. DO NOT GO HERE. I quit 6 weeks ago and somehow cannot make it out of the hotel. Anytime I get near the lobby door, I pass out and wake up in room 7:7. Come to think of it, a blood sample was required for my application. Maybe if I drink someone elses blood, I can fool the hotel. :thumbsup:"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Hen2Pan Boutique Apartments by Mr Harry Park-Retts | Hen2Pan prouds itself on its long tradition of utmost commitment to ensuring the most pleasurable stay for its guests. Located conveniently just a walking  distance from the Remembrance Plaza, you are sure to attend all your matters with certainty that there is a place for you to come back to relax and forget about the whole world while all your other needs are taken care of. Call this number to inquire | ❤️🖤🖤🖤🖤  Do NOT go there. The entire premise is just an undercover cult. The receptionist asked a lot of weird questions, and all baggage porters didn't even pay any attention to us. We accidentally found some strange circles with some writings in them under the furniture while unpacking. In the middle of the night, we were awoken by screaming form the next room. We tried to leave immediately, but were only let go after threatening to notify the corporate authority. Three days afterwards we all started to develop delirium with strange symptoms and required hospitalisation under suspicion of poisoning. The whole place should be burned to the ground. | 🖤🖤🖤🖤❤️ Very strange place, pretty bad. Room service v bad. Alleged taking care of all needs really just weird guided meditation, boring. Water in the tap so bad it looked red, then like water then red again. Got a terrible headache, had to leave. Do not recommend"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The Antheia garden hotel by owner RONALD SOLARISTAR | Antheia garden hotel is an ecological hotel and friendly based on our guidelines along with using our sate of the art chemical for making the plants grow and never kills them. make this a perfect place to relax and enjoy the gardening experience. All our food is grown here and it’s plant based. | So :sync: to book one now! | Here’s our reviews: | 🖤🖤🖤🖤♥️ TO ANYONE LOOKING AT THIS REVIEW DONT GO IN THERE! THERES PEOPLE TURNING INTO THOSE PLANT THINGS!  THE PLACE IS OVERRUN WITH SO MUCH VEGETATION! IM GETTING OUT OF HERE! -xXMaXXXineXx1993 | 🖤🖤🖤🖤♥️ DON’T eat the “plant based” foods as advertised. They contain something that makes people turning into those things. - Johnny_gitarxx38 | 🖤🖤🖤🖤♥️  anonymous employee here, I went to the basement of the hotel that has that chemical compound and it is a horror show down there. You don’t want to go there or be as plant food. STAY OUT OF THE BASEMENT! YOU HEAR ME! - A-N_Stein3404"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Dunharrow Air B&B&B&B&BBQ [Bed, Breakfast, BORG, Bloodshed, and Barbeque] | This quiet fishing cottage, set in the fjords of REDACTED has been refurbished to accommodate 4 overnight guests. The attic is made from 200 year old oak timbers, while the basement features a 30'x30' octagonal gladiatorial area. Losers are served at our Sunday BBQs | ❤️ 🖤 🖤 🖤 :blood:  They dragged my husband into the basement last night. But my coffee and quiche arrived promptly the next morning. I found his wedding ring inside | ❤️ 🖤 🖤 🖤 🖤  The cottage was nice, but the 300 meter zigzagged stone stairs leading up the fjord was a bit inconvenient for carrying our bags. Manager says there is a card game in the basement tonight, but sounds a bit shady | ❤️ 🖤 🖤 🖤 :yeah:  GROSHNAR SHALL BE VICTORIOUS THIS EVE! TREMBLE AT MY MIGHT! [i ordered room service two hours ago, nothing]"
+      }
+    ]
+  },
+  {
+    "name": "d6 Exotic or Altered beasts kept as pets by the wealthy",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "R3D IX | A big wolf with red fur, whip like tail,  and nasty sharp teeth in plan 9 that had been captured by the wealthiest member of the hills. More than anything the it wanted to go back to plan 9. | Hp 30 | armor d4 thicker fur and skin | morale 20 | weapons d4 tail whip d10 maw | Special: if the handler is killed or knocked out roll the reaction table for the creatures behavior. | Ed D. Criswell, The handler | hp 10 | armor d4 bulletproof tuxedo | weapon d8 golden assault rifle, d4 grenades"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "GO TOAD | this reptile is only found in the broken sewers underneath GO. A fully adult toad is about 18\" long and 10\" wide. It appears black in color, but glows purple & gold under blacklight. It secrets a unique chemical that can be refined into a purple dye or a medication for syphilis. Dont touch it with your bare hands, the chemical in its raw form is highly hallucinogenic. There are rumors of lost Toad Hunters, caught in their own Wonderland, wandering the decrepit sewers of GO."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Llaiga Shark | A spliced Llama and Tiger shark Hybrid Abomination. They're usually kept in a Mote or Pool but can be equipped with a special collar pushing Oxygenated water through their gills These creatures continuously grow scales Increasing their size until they're so big they can barely move which is usually the time they're replaced by owners looking for their utility. They make for intimidating guard animals as the less scaled ones prove quite fast and they have an ability to machinegun spit teeth at their enemies which they rapidly regrow. | HP: 10/12/14 | Armor D4/D6/D8 | Morale 8 | Weapons Bite: D8 damage  or Machinegun spit: d4 enemies suffer d4 damage."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Hipponaut | up in the Hills there is an infamous drug dealer who keeps a hippo as a pet, for disposing bodies. However, this particular hippo had a series of illegal psych enhancing surgeries. When you feed a person to the hippo, he will consume it, bone and all, then begin speaking. The hippo will recite the life story of the deceased, in Bohemian Prose, akin to a Shelly poem."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Giant Non-Euclidean Extradimensional Tiger | Also known as G.N.E.T. (Janet), she is the main attraction at Dr. Dumbass's new super duper mega mansion. Being from a higher dimension, her form seems to disappear and reappear is sections, never fully visible at any one time. She doesn't appear to be much bigger than a regular tiger. Unlike a regular tiger however, she is super nice and seems as intelligent as any human, though she still can't speak."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": " MOOSEQUITO | Giant with large fractal like antlers ending in sharp needle like points. Actually quite chill and peaceful. Used more as a display animal. Those with the most intricate antlers are viewed as the most valuable specimen.  Need to be fed by being showered in blood so they can drink from their antlers."
+      }
+    ]
+  },
+  {
+    "name": "d6 Fucked Up Black Sites",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "DELTA ECHO ALPHA DELTA. | Cells upon cells full of nano freaks, the digitally undead. Strapped into the net and sicced on [redacted] rivals as disposable mind bending ICE. Firewalls made of living flesh burning to husks as they throw their nano addled minds at any hacker dumb enough to try. | Location: Edge of G0. | Size: Huge and deep. | Type: Gulag maze. | Prize: The name behind it all. Blackmail of the highest order."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "The Hole | Abandoned arctic missile silo. Cracked and rusted launch hatch leads deep into the frozen tundra. Infested with a sentient swarm of roaches that feed on anything warm. Prototype security robots that kill anything alive. They ran out of bullets long ago shooting the roaches, now just rusty kombat knives. | Location: Just nort of Cy, your friend knows a guy who can drive you out in his Karkovchanka. | Size: Deep and cold | Type: Inverted Tower | Prize: There is a vault at the bottom with a Nuke that they left behind"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Festung Folgen-Qualen | Ancient, pre-G0 Event complex of blood-red brick buildings, long time ago housing meat processing plant, then insane asylum, now officially abandoned. Behind several inches of scarlet bricks reinforced with rusted metal, the work continues. Captured citizens are brought in via network of tunnels stretching far away into the CY, imprisoned, and subjected to experimental mind control agents and enhanced interrogation techniques. No one really knows who's responsible, with only vague references to a group called Cinnabar Mirror Technologies. | Size: Medium and comparatively low rise | Type: a complex of interconnected buildings, with an extensive tunnel network underneath | Prize: Maybe just a couple fewer people in Barnyard Field will end up missing. And also all the crime-against-humanity class technology you can get your hands on before self destruction gets initiated."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Retrotainment North | A shell of hidden automation encompasses this purportedly derelict sports centre in a bombed-out city block, rad-scouring all approaches on a complicated schedule. Detainees are brought in by full-borg crews on zero-recall contracts. Inside, activity focuses on the former bloodsports arena, now an ultra-containment biolab. Retrotainment once staged spectacular fights between nano-infected convicts. This inadvertent cauldron of evolutionary pressures gave rise to a mind-altering contagion with irreversible impact- total pacifism. Those afflicted are unable to countenance violence to any end and relentlessly seek community, empathy and self-expression. As a pathogen that fundamentally threatens Cy society as a whole, its existence is beyond top secret. The controlling corp seeks to weaponise it somehow, and meanwhile uses it to neuter dangerous individuals they still have use for. | Location: No-Go 14 in Lilypond | Size: Former 10K capacity entertainment plex | Type: Multilevel biohazard labs, cell blocks and testing arenas. | Prize: A weapon that actually scares the corps. If you don't feel like being public enemy number one, there's more marketable conventional bioweapons up for grabs in the splicing vats."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The Power Plant | 30,000 hypnotized prisoners, all running on treadmills, powering a large electric dynamo. The more people they lock up, the more neighborhoods they can power.  The RCD Headsets of the inmates are broadcasting a program to make them hallucinate their worst fears chasing them. This encourages inmates to keep running 24-7, until they drop dead. If only we could keep the screaming down. | Location: REDACTED | Size: football stadium | Type: 1800s red brick industrial complex, three big smoke stacks | Prize: hacking the RCDs of the inmates and setting them free will blackout 1d100 city blocks."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Singsing High | You thought your school was bad, well this one's a literal prison. 200+ years ago the building really was a damn prison before it was converted to a pencil factory, and eventually a high school. Students walk the razor-walled campus in orange white stripe uniforms fashioned from surplus prison garb. The school is known throughout CY for having rules so strict and complex it would take an actual lawyer to decipher and follow them all. For less serious crimes corporal punishment is common, while those guiltiest of students are sentenced to permanent detention in the building's labyrinthine understructure, never to be seen by their loved ones again. Guardians who complain to local authorities just find out they actually donate to the school, saying that the school does wonders to keep those juvenile delinquents off the street. The teachers are all mean as hell, many of them being former police officers, military personnel, or security guards lacking any formal teaching experience or training. | Location: Aquaculture cage maze slums |  Size: Confusing layout makes this place seem much bigger than it really is | Type: Prison/factory/school | Prize: Fully stocked 1st place trophy case"
+      }
+    ]
+  },
+  {
     "name": "d6 Space Flight Locations",
     "category": "???",
     "subtitle": null,
@@ -28,6 +220,150 @@
       {
         "rowNum": "6",
         "tableItem": "AMON Orbital | Maintained by Alliansen. Thousands of years ago, mankind first put plow to field and grain to furrow. AMON is the last place with clean enough air and broad enough space to still do that. The station is more or less mono-functional- it's a grain field -but massive in scale; this is, after all, where enough cereal crops to sate every CY-side bigwig's appetites for opulence come from. Workers toil in broad hats and anti-rad suits to protect them from the sun's unfiltered rays; cancer affects eight out of ten of them anyways. There's certain compounds being tested here that could make a hypercrop able to grow in cracked concrete...if some absolute scoundrel without respect for corporate law tried to break in."
+      }
+    ]
+  },
+  {
+    "name": "d6 Things on the subway that freak you the hell out.",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Metro car of gore | As you are arriving to your next destination, in the subway tunnel up ahead the lights went off for odd reasons. When the lights are back on, You see flicker lights on the next metro car that used to have lots of people now into piles of gore all over the inside of the car as if it was a macabre massacre but there’s no killer inside. Is there? Or is it your imagination of things and ideas?"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Tunnel things | subway cars have windows, why? Tunnels are pitch black, until they aren't. Sometimes people report catching glimpses of tunnels leading off the subways with brief glimpses of lights like city streets or humanoid figures staring back  from the edges of a dim light. There are also stories of strange hooded figures pulling the emergency break and vanishing out a window or door before security can get to them."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Four horrificly mutated snapping turtles and a giant rat in one of the tunnels. They're feasting on a fast food delivery worker who took a shortcut through the tunnel system."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "That man holding flowers is staring at me. Or is he looking at the person next to me? Perhaps... no he is looking at me. Its not a good look. Wait, those arnt flowers . . ."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Mimics: \"No officer I swear it was a bug with a human face!\" Blending in with the crowds under the pale flickering light is easy even for a cockroach. It's fine though they only eat kids...... Mimic | Hp: 8 | Morale: 4 (10 near eggs) | Chitinous carapace: -d4 | Scrabbling mouthparts: d6 | Human like: Can't be easily picked out in a crowd, dr14. Hidden wings: Will attempt to fly away if it loses Morale."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Organ Grinder | at each subway station, you see the same busker dancing for cash at every stop. A scrappy, yellow toothed man in a small hat does a tap routine while a small monkey plays the MIDI accordion. The monkey is sitting on a burlap sack, with blood leaking out of the bottom. Looks like they dont take credits."
+      }
+    ]
+  },
+  {
+    "name": "d6 Truly beautiful Places Among All This Metal Hell",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Te'anh-Taneh Club Ruins | Remains of a failed entertainment project in South Central, originally meant to perfectly recreate an idyllic picnic on a river bank at sunset. Located in a giant concrete dome meant to slowly simulate twilight, in its heyday would guest some of the richest CY has ever produced, all sitting on real grass, watching artificial river looping down below while being served champagne and sandwiches, wind gently carrying their voices. Following catastrophic lawsuit after drowning of an heir to a major corporation, club now sits mostly abandoned, real sunlight shining through the cracks in the dome. Somehow, large parts of the nature and the river have survived, even if much more wilder and untamed now. Said to still be haunted by the spirit of the drowned corpo-heir."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Twin Tunnel Falls | Near the old train yard there are two tunnels that lead underground. Left Tunnel takes you to Skunk Town, dont got there. Right Tunnel takes you on a 400 yard journey through moss-cover, cy-spider infested steel tubes. The tunnel leads to the last remnant of the original aqueduct for the city; a 30m tall waterfall flowing into sewer spillway, covered in glowing moss. [FYI; this is based on a real place, outside of Philadelphia, PA, USA]"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Arc's Blind Spot | Due to unnoticed security flaw, a single service stairwell at the external wall of Arcs megastructure remains unmonitored and unguarded. If you manage to find it, and not draw any attention to yourself, you can make it to a forgotten observation platform high above CY, offering a view over large part of the city if the weather conditions are right. At night, you can even see underwater construction of Undersjön lit by the flame of welders and searchlights. The Blind Spot, though, remains ephemeral, constantly threatened by accidental discovery or carelessness of its guests."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Old meadows park | A beautiful park that many of the old meadow community lived around these parts. You have swamp like forest that has a nice and relaxing smell in the forest that looks like a tunnel, but taking the left path is a forest path that  on one  tree has some weird esoteric symbols that is not related to the heirs of Kergoz as if it this is their own  guardians of this park. It has a riverbed and a lake in the forest, a wooden with steel enforcement bridge to go across. (Fun fact :this is inspired by my favorite park down at Union,NJ)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "ᑕY_ᕼEᑎGE | They say the streets here were specifically constructed so that, just twice per year, the sun's light cuts the sky in twain. On these days days the orb lands perfectly between the buildings of the main east-west corridor in Burnchurch. The orb follows this road precisely, beaming light down the corridor before eventually laying down to rest in one ultimate blast of radiant splendor. This phenomena, colloquially referred to as Cy_henge, only happens on two days per year: Bleak Friday and Remembrance day. The biggest holidays celebrating greed and war."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Public Library | One of the city's last safehavens for free knowledge is the Public Library. The wide brutalist structure lays at the bottom of a deep canyon of buildings, low in the heart of the city. Not so much secret as it is forgotten to time and technological advancement, only the oldest generation even remember this place. Everyone else walks past it every day without even noticing. The roundabout doors of the main entrance open up to the 3rd level of a grand 5 story atrium. Artwork from days long past decorate glass elevators and escalators, bringing back memories of a world forgotten. Each level is filled with identical geometric shelves that once contained expertly categorized information, separated by floor. They are practically empty now, but precious scraps of lost texts can still be recovered with enough patience. Librarians here are meek and have become terrified of any and all visitors, regardless of intention. This place is the 3rd QUIETEST place in all of CY."
+      }
+    ]
+  },
+  {
+    "name": "d8 Non-Violent Wholesome Character Goals to Accomplish Before You Bite the Dust",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Get the high score on that new VR-Arcade game"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Pay back my debt to that loan shark, who is still holding my pet turtle Steve as collateral. I promised Steve I would be back"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Your nano cucumber pickle is finally edible."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Find and pet 3d4 cats"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Do at least 1 live performance of some sort"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Locate that friend you parted ways with after a fight, to tell them you're sorry about it, you were hurt inside and didn't know. But you grew."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "See the sunset in all its glory. Uncluttered by the ads and HUD in your RCD just once."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Watching the last moment of the MMORKG shutting down its servers. Saying goodbye to the chat, the players and all of your friends you met and thanking for these moments & memories of having fun in the MMORKG."
+      }
+    ]
+  },
+  {
+    "name": "d8 Totally-Violent and Frankly Heinous Character Goals to Accomplish Before You Bite the Dust",
+    "category": "???",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Beat someone to death with 2 freshly ripped off heads"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Steal a car. Strap explosives to it. Launch it over a ramp at corpos and/or secops. Bonus points if you jump out and start blasting mid air."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "make a a literal shitsplosion apocalypse in the Cy sewers system that would fill up from the poor places of Cy to the richest places around Cy along with the corpos, secops, punks, etc."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Marc Donald's mukbang (cannibalize the dead CEO's rotting remains, not eat at the restaurant)."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Invent and distribute Hat Trick gun to the populace and watch the citizens freak themselves to death, out of every exit. Apparently the schematics are inside this interesting metal puzzle box. Just gimmie a minute, I can get it open, its just stubborn, gotta flip it, then ..."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Multipart goal coarse: fire two guns whilst jumping through the air; fire while in a high speed pursuit; and shoot your gun up in the air whilst screaming \"Aaaaargh!\""
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Land a 360-no-scope triple kill irl (celebrated by teabagging the victims of course, all on stream)"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Master the Knife-Game-Song, and become thee expert of Five-Finger-Fillet."
       }
     ]
   },
