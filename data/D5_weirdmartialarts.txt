@@ -1,7 +1,6 @@
 d5 Weird Martial Arts Styles
 subtitle:
 category:
----
 1. Shatner Fu | your fighting style is like a 60s scifi stuntman. | ~double axe handle forearm strike 1d8dmg | ~Add a Glitch if your shirt is torn
 2. Improv Fu | your fighting style is using random items and  scenery if you have no weapons. | -add a glitch(or omen)  for being creative with the scenery attacks or checks | 
 -As for damage small items ( like coffee mugs or chairs) is like d4-d6 | For big items (like ladders or even your body.) is a d12- d20 | -For defense or checks is your toughness instead of strength and agility 
